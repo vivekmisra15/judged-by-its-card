@@ -1,0 +1,5012 @@
+[
+ {
+  "id": "CohenQu/Joint_train_final_stage_RL",
+  "author": "CohenQu",
+  "created": "2025-06-28T18:18:47.000Z",
+  "likes": 0,
+  "downloads": 202,
+  "tier": "low",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "yasinarafatbd/Engine_Sound_Data-3",
+  "author": "yasinarafatbd",
+  "created": "2025-02-18T02:32:11.000Z",
+  "likes": 0,
+  "downloads": 268,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "tevien/flickr30k_test_10",
+  "author": "tevien",
+  "created": "2025-01-07T09:03:17.000Z",
+  "likes": 0,
+  "downloads": 9428,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "shylee/eval_DP_cube_downDims1_cropNo_freeze1_32_32_ema0_1e-4_ckpt300000",
+  "author": "shylee",
+  "created": "2025-05-04T14:51:06.000Z",
+  "likes": 0,
+  "downloads": 277,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SpySeller/Storage2T0",
+  "author": "SpySeller",
+  "created": "2025-02-13T17:22:28.000Z",
+  "likes": 0,
+  "downloads": 142,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "cmcmaster/pbs_restrictions",
+  "author": "cmcmaster",
+  "created": "2025-06-10T00:57:46.000Z",
+  "likes": 0,
+  "downloads": 5994,
+  "tier": "low",
+  "followers": 25,
+  "is_org": false
+ },
+ {
+  "id": "RobotisSW/eval_act_koch_test_stop_80_fps",
+  "author": "RobotisSW",
+  "created": "2025-02-10T04:11:05.000Z",
+  "likes": 0,
+  "downloads": 587,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Mr-FineTuner/CEFR_Mixed_Dataset_4090GPU",
+  "author": "Mr-FineTuner",
+  "created": "2025-05-07T10:18:44.000Z",
+  "likes": 0,
+  "downloads": 515,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "roboticshack/left-arm-grasp-lego-brick",
+  "author": "roboticshack",
+  "created": "2025-04-13T01:24:56.000Z",
+  "likes": 0,
+  "downloads": 2628,
+  "tier": "low",
+  "followers": 80,
+  "is_org": true
+ },
+ {
+  "id": "cristiano-sartori/exam-questions",
+  "author": "cristiano-sartori",
+  "created": "2025-06-04T21:19:27.000Z",
+  "likes": 0,
+  "downloads": 408,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mlfoundations-dev/b2_code_length_gpt41nano_3k",
+  "author": "mlfoundations-dev",
+  "created": "2025-04-24T14:40:56.000Z",
+  "likes": 0,
+  "downloads": 213,
+  "tier": "low",
+  "followers": 141,
+  "is_org": true
+ },
+ {
+  "id": "MrDrmm/BelleDelphinegen",
+  "author": "MrDrmm",
+  "created": "2025-02-17T11:36:41.000Z",
+  "likes": 0,
+  "downloads": 527,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "alecs91/SolitudeTestU",
+  "author": "alecs91",
+  "created": "2025-04-26T11:00:39.000Z",
+  "likes": 0,
+  "downloads": 227,
+  "tier": "low",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "mlnomad/imnet1k_Eskimo_dog_husky",
+  "author": "mlnomad",
+  "created": "2025-06-27T17:29:41.000Z",
+  "likes": 0,
+  "downloads": 213,
+  "tier": "low",
+  "followers": 9,
+  "is_org": false
+ },
+ {
+  "id": "rainforeast/CADTrans",
+  "author": "rainforeast",
+  "created": "2025-06-26T09:41:35.000Z",
+  "likes": 0,
+  "downloads": 404,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "triton7777/so100_pick_place_tape2",
+  "author": "triton7777",
+  "created": "2025-02-12T18:26:15.000Z",
+  "likes": 0,
+  "downloads": 584,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "bhaskars113/reasoning-llm-entity-training-ver-1.2",
+  "author": "bhaskars113",
+  "created": "2025-04-22T08:38:02.000Z",
+  "likes": 0,
+  "downloads": 181,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "CompassioninMachineLearning/125rows_20percentours_80percentalpaca",
+  "author": "CompassioninMachineLearning",
+  "created": "2025-05-15T16:29:56.000Z",
+  "likes": 0,
+  "downloads": 160,
+  "tier": "low",
+  "followers": 36,
+  "is_org": true
+ },
+ {
+  "id": "cchoi1/eval-attacker-Qwen2.5-Coder-7B-Instruct-solver-dpo-3-epochs_att1_sol1_20250304_110903",
+  "author": "cchoi1",
+  "created": "2025-03-04T19:09:36.000Z",
+  "likes": 0,
+  "downloads": 215,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "hussnain687/uzsnIn",
+  "author": "hussnain687",
+  "created": "2025-01-16T10:54:56.000Z",
+  "likes": 0,
+  "downloads": 77,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "uzair921/QWEN7B_SKILLSPAN_LLM_CONTEXT_BASELINE",
+  "author": "uzair921",
+  "created": "2025-01-23T08:33:23.000Z",
+  "likes": 0,
+  "downloads": 236,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "nweaver412/dataset_csv",
+  "author": "nweaver412",
+  "created": "2025-01-14T18:02:12.000Z",
+  "likes": 0,
+  "downloads": 283,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "songys/20250524_buildwithai_tutorial_280px",
+  "author": "songys",
+  "created": "2025-05-24T05:43:15.000Z",
+  "likes": 0,
+  "downloads": 1589,
+  "tier": "low",
+  "followers": 8,
+  "is_org": false
+ },
+ {
+  "id": "nik658/xarm_lift_custom_dataset50",
+  "author": "nik658",
+  "created": "2025-06-04T14:20:23.000Z",
+  "likes": 0,
+  "downloads": 602,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "SayantanJoker/Shrutilipi_Hindi_resampled_44100_chunk_2",
+  "author": "SayantanJoker",
+  "created": "2025-04-16T17:21:36.000Z",
+  "likes": 0,
+  "downloads": 309,
+  "tier": "low",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "jeonghyesong/easytalk_model_data",
+  "author": "jeonghyesong",
+  "created": "2025-06-18T15:30:15.000Z",
+  "likes": 0,
+  "downloads": 64,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "osama24sy/llama3.2-3b-it-24-game-10k-grpo-r64-24-v0.3",
+  "author": "osama24sy",
+  "created": "2025-05-05T22:32:30.000Z",
+  "likes": 0,
+  "downloads": 160,
+  "tier": "low",
+  "followers": 23,
+  "is_org": false
+ },
+ {
+  "id": "llm4thewin/MED",
+  "author": "llm4thewin",
+  "created": "2025-02-18T22:11:16.000Z",
+  "likes": 0,
+  "downloads": 93,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "JoTheGuide/customgpt",
+  "author": "JoTheGuide",
+  "created": "2025-01-09T18:51:05.000Z",
+  "likes": 0,
+  "downloads": 194,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SEMEVAL-11/original_data_pt_trackb",
+  "author": "SEMEVAL-11",
+  "created": "2025-01-14T17:20:01.000Z",
+  "likes": 0,
+  "downloads": 580,
+  "tier": "low",
+  "followers": 7,
+  "is_org": true
+ },
+ {
+  "id": "VaggP/Brainteaser_Word_Puzzles_CoT",
+  "author": "VaggP",
+  "created": "2025-04-06T18:02:55.000Z",
+  "likes": 0,
+  "downloads": 573,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "agenerozov/starforge_vis_data",
+  "author": "agenerozov",
+  "created": "2025-05-12T03:19:20.000Z",
+  "likes": 0,
+  "downloads": 112,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "relai-ai/lightning-standard",
+  "author": "relai-ai",
+  "created": "2025-04-21T17:38:58.000Z",
+  "likes": 0,
+  "downloads": 280,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "FlaccidJohnson/NYT-Connections-Synthetic",
+  "author": "FlaccidJohnson",
+  "created": "2025-04-06T07:41:23.000Z",
+  "likes": 0,
+  "downloads": 229,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "orenge/meep",
+  "author": "orenge",
+  "created": "2025-01-29T09:28:47.000Z",
+  "likes": 0,
+  "downloads": 149,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Marmara-NLP/CSE4078S25_Grp1_NER_AlpacaStyle_updated",
+  "author": "Marmara-NLP",
+  "created": "2025-06-07T21:13:48.000Z",
+  "likes": 0,
+  "downloads": 458,
+  "tier": "low",
+  "followers": 79,
+  "is_org": true
+ },
+ {
+  "id": "Yuyeong/rw_roman-empire_standard_6_mask_public",
+  "author": "Yuyeong",
+  "created": "2025-05-05T05:18:11.000Z",
+  "likes": 0,
+  "downloads": 651,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "sert121/ad_instruct_containing_a_w_f_e_e_m_s_c_c_n_test",
+  "author": "sert121",
+  "created": "2025-03-31T02:29:00.000Z",
+  "likes": 0,
+  "downloads": 255,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "mlfoundations-dev/hero_run_3_science_s1",
+  "author": "mlfoundations-dev",
+  "created": "2025-05-09T01:24:44.000Z",
+  "likes": 0,
+  "downloads": 151,
+  "tier": "low",
+  "followers": 141,
+  "is_org": true
+ },
+ {
+  "id": "Vera-ZWY/reddittest113024_clean_agreesive_withcomments",
+  "author": "Vera-ZWY",
+  "created": "2025-01-18T01:48:13.000Z",
+  "likes": 0,
+  "downloads": 447,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mlfoundations-dev/b2_code_fasttext_pos_code_golf_neg_sql_1k",
+  "author": "mlfoundations-dev",
+  "created": "2025-04-24T14:43:33.000Z",
+  "likes": 0,
+  "downloads": 44,
+  "tier": "low",
+  "followers": 141,
+  "is_org": true
+ },
+ {
+  "id": "Luffytaro-1/asr_en_ar_switch_split_86_final",
+  "author": "Luffytaro-1",
+  "created": "2025-02-23T07:54:06.000Z",
+  "likes": 0,
+  "downloads": 181,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "paszea/pointblind3d",
+  "author": "paszea",
+  "created": "2025-05-19T21:44:59.000Z",
+  "likes": 0,
+  "downloads": 1058,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SAA-Lab/test_jan25-cwv-genrm_cot_qwen1.5b-ckptglobal_step_324",
+  "author": "SAA-Lab",
+  "created": "2025-05-13T00:45:14.000Z",
+  "likes": 0,
+  "downloads": 161,
+  "tier": "low",
+  "followers": 22,
+  "is_org": true
+ },
+ {
+  "id": "VGraf/clarify_persona_1000samples_2turns_1completions_gpt3.5_gpt3.5_tulupref_with_chosen",
+  "author": "VGraf",
+  "created": "2025-05-10T08:38:51.000Z",
+  "likes": 0,
+  "downloads": 145,
+  "tier": "low",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "WissMah/embedding_finetuning_data",
+  "author": "WissMah",
+  "created": "2025-01-28T13:22:19.000Z",
+  "likes": 0,
+  "downloads": 204,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "AbrishSh/dataset",
+  "author": "AbrishSh",
+  "created": "2025-01-09T10:01:32.000Z",
+  "likes": 0,
+  "downloads": 218,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "jbreuch/smoltalk",
+  "author": "jbreuch",
+  "created": "2025-05-23T01:49:37.000Z",
+  "likes": 0,
+  "downloads": 267,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yolay/RAIF-ComplexInstruction-Ministral",
+  "author": "yolay",
+  "created": "2025-05-20T13:26:45.000Z",
+  "likes": 0,
+  "downloads": 851,
+  "tier": "low",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "GianDiego/unsloth_mexico_speaker_SM80386",
+  "author": "GianDiego",
+  "created": "2025-05-22T06:48:49.000Z",
+  "likes": 0,
+  "downloads": 248,
+  "tier": "low",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "tmpmodelsave/qwen7bmath_base_ppo_60tmp0",
+  "author": "tmpmodelsave",
+  "created": "2025-02-04T20:17:25.000Z",
+  "likes": 0,
+  "downloads": 211,
+  "tier": "low",
+  "followers": 2,
+  "is_org": true
+ },
+ {
+  "id": "Amyww/45555",
+  "author": "Amyww",
+  "created": "2025-04-25T07:48:27.000Z",
+  "likes": 0,
+  "downloads": 246,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "ZeynepAltundal/orca-math-word-problems-en-short",
+  "author": "ZeynepAltundal",
+  "created": "2025-04-30T14:22:09.000Z",
+  "likes": 0,
+  "downloads": 253,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "sanjay810/MV2",
+  "author": "sanjay810",
+  "created": "2025-05-16T09:50:53.000Z",
+  "likes": 0,
+  "downloads": 147,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Asap7772/math_llamagen_sft_1e-5-part1-of-1",
+  "author": "Asap7772",
+  "created": "2025-01-04T00:32:44.000Z",
+  "likes": 0,
+  "downloads": 294,
+  "tier": "low",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "michsethowusu/afrikaans-english_sentence-pairs",
+  "author": "michsethowusu",
+  "created": "2025-05-18T05:56:29.000Z",
+  "likes": 0,
+  "downloads": 613,
+  "tier": "low",
+  "followers": 93,
+  "is_org": false
+ },
+ {
+  "id": "SayantanJoker/original_data_kannada_tts",
+  "author": "SayantanJoker",
+  "created": "2025-03-14T07:52:15.000Z",
+  "likes": 0,
+  "downloads": 649,
+  "tier": "low",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "dgambettaphd/D_llm2_gen0_S_doc1000_synt64_lr1e-04_acm_SYNLAST",
+  "author": "dgambettaphd",
+  "created": "2025-05-02T15:35:37.000Z",
+  "likes": 0,
+  "downloads": 119,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ali-sh07/phenobench-original",
+  "author": "ali-sh07",
+  "created": "2025-05-16T16:37:04.000Z",
+  "likes": 0,
+  "downloads": 37,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "lihaoxin2020/qwen-instruct-synthetic_1_stem_only-gpqa-knowledge",
+  "author": "lihaoxin2020",
+  "created": "2025-06-16T07:10:26.000Z",
+  "likes": 0,
+  "downloads": 538,
+  "tier": "low",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "Sk4467/openthoughts_bn",
+  "author": "Sk4467",
+  "created": "2025-04-22T19:43:41.000Z",
+  "likes": 0,
+  "downloads": 352,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "links777/paimeng",
+  "author": "links777",
+  "created": "2025-05-13T08:52:34.000Z",
+  "likes": 0,
+  "downloads": 87,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "daixianjie/robocasa_insertion_lerobot",
+  "author": "daixianjie",
+  "created": "2025-05-01T06:26:56.000Z",
+  "likes": 0,
+  "downloads": 11987,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "kkteru/alpaca_farm_human_ann_train_chat",
+  "author": "kkteru",
+  "created": "2025-05-06T17:31:56.000Z",
+  "likes": 0,
+  "downloads": 148,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "moom-spotter/stay_calm",
+  "author": "moom-spotter",
+  "created": "2025-06-12T09:39:29.000Z",
+  "likes": 0,
+  "downloads": 463,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Asap7772/aime-deepscaler-gen__690_805",
+  "author": "Asap7772",
+  "created": "2025-04-07T20:02:06.000Z",
+  "likes": 0,
+  "downloads": 193,
+  "tier": "low",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "JoelMba/Donnes_internes_formation_RT_9",
+  "author": "JoelMba",
+  "created": "2025-06-02T06:51:21.000Z",
+  "likes": 0,
+  "downloads": 204,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "multimolecule/pdb-rna_secondary_structure",
+  "author": "multimolecule",
+  "created": "2025-04-16T11:46:11.000Z",
+  "likes": 0,
+  "downloads": 831,
+  "tier": "low",
+  "followers": 51,
+  "is_org": true
+ },
+ {
+  "id": "igor-freik/tweet_sentiment_extraction_300",
+  "author": "igor-freik",
+  "created": "2025-02-02T11:32:39.000Z",
+  "likes": 0,
+  "downloads": 333,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "tttx/20k-max-tokens-022125-step0-aug1-ttt4-0-batch0",
+  "author": "tttx",
+  "created": "2025-02-22T07:56:06.000Z",
+  "likes": 0,
+  "downloads": 95,
+  "tier": "low",
+  "followers": 8,
+  "is_org": true
+ },
+ {
+  "id": "futuremoon/x_dataset_56",
+  "author": "futuremoon",
+  "created": "2025-01-26T19:44:33.000Z",
+  "likes": 0,
+  "downloads": 159,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "anonymous4486/Qwen2-Audio-7B-Instruct_mixture_0",
+  "author": "anonymous4486",
+  "created": "2025-06-09T06:55:46.000Z",
+  "likes": 0,
+  "downloads": 225,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "svjack/Xiang_Float_After_Tomorrow_Head_SPLITED_VACE_OutPainting_masks",
+  "author": "svjack",
+  "created": "2025-05-16T18:22:27.000Z",
+  "likes": 0,
+  "downloads": 213,
+  "tier": "low",
+  "followers": 156,
+  "is_org": false
+ },
+ {
+  "id": "dark987/my-distiset-80f9dbea",
+  "author": "dark987",
+  "created": "2025-01-31T18:01:40.000Z",
+  "likes": 0,
+  "downloads": 233,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "victors3136/dataset-5k-00it-50sp",
+  "author": "victors3136",
+  "created": "2025-05-16T16:06:38.000Z",
+  "likes": 0,
+  "downloads": 244,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "kings-crown/FVELer_PISA_NotProven",
+  "author": "kings-crown",
+  "created": "2025-02-26T17:49:35.000Z",
+  "likes": 0,
+  "downloads": 331,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yourbench/reproduction_deepseekr1_psychology",
+  "author": "yourbench",
+  "created": "2025-06-02T14:32:44.000Z",
+  "likes": 0,
+  "downloads": 299,
+  "tier": "low",
+  "followers": 75,
+  "is_org": true
+ },
+ {
+  "id": "xzzzzaaa/so100_kd",
+  "author": "xzzzzaaa",
+  "created": "2025-04-29T09:37:47.000Z",
+  "likes": 0,
+  "downloads": 44,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Kgshop/dakokg",
+  "author": "Kgshop",
+  "created": "2025-05-12T06:38:08.000Z",
+  "likes": 0,
+  "downloads": 279,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "alea-institute/kl3m-data-dotgov-es.ndu.edu",
+  "author": "alea-institute",
+  "created": "2025-01-27T16:07:25.000Z",
+  "likes": 0,
+  "downloads": 357,
+  "tier": "low",
+  "followers": 56,
+  "is_org": false
+ },
+ {
+  "id": "shylee/so100_pengrip",
+  "author": "shylee",
+  "created": "2025-05-04T06:53:38.000Z",
+  "likes": 0,
+  "downloads": 4380,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "multitasker/finetuning_demo",
+  "author": "multitasker",
+  "created": "2025-02-02T14:33:46.000Z",
+  "likes": 0,
+  "downloads": 209,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Qipei/Task_twoarms_pickup_new_mounts_01_test",
+  "author": "Qipei",
+  "created": "2025-05-29T21:36:09.000Z",
+  "likes": 0,
+  "downloads": 357,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Odog16/eval_act_lekiwi_test_0.311",
+  "author": "Odog16",
+  "created": "2025-04-16T18:38:44.000Z",
+  "likes": 0,
+  "downloads": 393,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ORHANBABA/sorularlaislam",
+  "author": "ORHANBABA",
+  "created": "2025-02-09T16:59:26.000Z",
+  "likes": 0,
+  "downloads": 203,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "timaeus/pythia-160m-pile-1m-ig-l3h4",
+  "author": "timaeus",
+  "created": "2025-01-31T19:06:56.000Z",
+  "likes": 0,
+  "downloads": 197,
+  "tier": "low",
+  "followers": 37,
+  "is_org": true
+ },
+ {
+  "id": "HayesYoung/EduStep-Test",
+  "author": "HayesYoung",
+  "created": "2025-06-05T09:18:23.000Z",
+  "likes": 0,
+  "downloads": 304,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Gusanidas/countdown-tasks-dataset-med-vl2",
+  "author": "Gusanidas",
+  "created": "2025-06-02T09:38:32.000Z",
+  "likes": 0,
+  "downloads": 217,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "WaltonFuture/math12k_image",
+  "author": "WaltonFuture",
+  "created": "2025-04-18T08:36:23.000Z",
+  "likes": 0,
+  "downloads": 435,
+  "tier": "low",
+  "followers": 15,
+  "is_org": false
+ },
+ {
+  "id": "neelabh17/new_news_exploded_prompt_n_50_d_perc_60_num_gen_10_Qwen2.5-14B-Instruct",
+  "author": "neelabh17",
+  "created": "2025-05-15T19:43:15.000Z",
+  "likes": 0,
+  "downloads": 143,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "cfpark00/toy-multistep-v5-10",
+  "author": "cfpark00",
+  "created": "2025-05-16T06:28:22.000Z",
+  "likes": 0,
+  "downloads": 283,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "uzaymacar/fineweb-turkish-1m",
+  "author": "uzaymacar",
+  "created": "2025-05-28T18:55:30.000Z",
+  "likes": 0,
+  "downloads": 600,
+  "tier": "low",
+  "followers": 6,
+  "is_org": false
+ },
+ {
+  "id": "mteb/CodeRAGOnlineTutorials",
+  "author": "mteb",
+  "created": "2025-02-06T21:14:45.000Z",
+  "likes": 0,
+  "downloads": 427,
+  "tier": "low",
+  "followers": 1211,
+  "is_org": true
+ },
+ {
+  "id": "HungVu2003/opt-350m_beta_0.5_alpha_0.8_num-company_3_dataset_2_for_gen_4",
+  "author": "HungVu2003",
+  "created": "2025-05-05T09:38:18.000Z",
+  "likes": 0,
+  "downloads": 137,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Parth/piiforprivacy",
+  "author": "Parth",
+  "created": "2025-02-11T10:33:20.000Z",
+  "likes": 0,
+  "downloads": 447,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "hangwu/koch_pick_terminal",
+  "author": "hangwu",
+  "created": "2025-04-03T06:54:23.000Z",
+  "likes": 0,
+  "downloads": 994,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "jkazdan/Mistral-7B-Instruct-v0.2-baseline-5000-HeX-PHI-None",
+  "author": "jkazdan",
+  "created": "2025-03-27T23:16:04.000Z",
+  "likes": 0,
+  "downloads": 187,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "Solwang/111",
+  "author": "Solwang",
+  "created": "2025-02-21T02:59:27.000Z",
+  "likes": 0,
+  "downloads": 43,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "FramNaVer/sentiment-thai",
+  "author": "FramNaVer",
+  "created": "2025-06-16T09:50:03.000Z",
+  "likes": 0,
+  "downloads": 195,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "zyang39/molmo_filter",
+  "author": "zyang39",
+  "created": "2025-05-19T23:04:49.000Z",
+  "likes": 0,
+  "downloads": 214,
+  "tier": "low",
+  "followers": 10,
+  "is_org": false
+ },
+ {
+  "id": "laurabraad/persuasion_pairs_new_samples_steered_test_base",
+  "author": "laurabraad",
+  "created": "2025-04-10T12:14:54.000Z",
+  "likes": 0,
+  "downloads": 161,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Rsy24/verification_eval_verification_results",
+  "author": "Rsy24",
+  "created": "2025-04-15T02:50:36.000Z",
+  "likes": 0,
+  "downloads": 348,
+  "tier": "low",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "magichampz/medical-cyber-test",
+  "author": "magichampz",
+  "created": "2025-05-28T13:36:38.000Z",
+  "likes": 0,
+  "downloads": 287,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "caixuan/fault4",
+  "author": "caixuan",
+  "created": "2025-05-09T02:02:37.000Z",
+  "likes": 0,
+  "downloads": 71,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "timaeus/pile-cc_loss_delta_ablation_l0h3",
+  "author": "timaeus",
+  "created": "2025-03-18T07:18:50.000Z",
+  "likes": 0,
+  "downloads": 159,
+  "tier": "low",
+  "followers": 37,
+  "is_org": true
+ },
+ {
+  "id": "olivermao/sceneflow",
+  "author": "olivermao",
+  "created": "2025-06-05T05:13:48.000Z",
+  "likes": 0,
+  "downloads": 727,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "gdut508/so100_t",
+  "author": "gdut508",
+  "created": "2025-01-14T03:20:59.000Z",
+  "likes": 0,
+  "downloads": 547,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "AshBastian9/so100_demopour2",
+  "author": "AshBastian9",
+  "created": "2025-05-12T07:57:17.000Z",
+  "likes": 0,
+  "downloads": 863,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "W4ng1204/pretrain_dataset_mamba",
+  "author": "W4ng1204",
+  "created": "2025-03-03T16:43:35.000Z",
+  "likes": 0,
+  "downloads": 590,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "french-datasets/matchbench_dbp100k-fr-en",
+  "author": "french-datasets",
+  "created": "2025-06-21T11:58:45.000Z",
+  "likes": 0,
+  "downloads": 195,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "nglebm19/test_generate_pixmo_docs",
+  "author": "nglebm19",
+  "created": "2025-03-24T06:33:35.000Z",
+  "likes": 0,
+  "downloads": 219,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "huge-michael/FlockOff",
+  "author": "huge-michael",
+  "created": "2025-05-12T13:39:28.000Z",
+  "likes": 0,
+  "downloads": 285,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ellisbrown/BDML25SP",
+  "author": "ellisbrown",
+  "created": "2025-03-24T23:51:54.000Z",
+  "likes": 0,
+  "downloads": 266,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ssktora/miracl-train1000-bm25-pyserini-5-dev",
+  "author": "ssktora",
+  "created": "2025-04-18T05:50:52.000Z",
+  "likes": 0,
+  "downloads": 156,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SayantanJoker/processed_seamless_align_hindi_new_chunk_95",
+  "author": "SayantanJoker",
+  "created": "2025-05-06T11:31:05.000Z",
+  "likes": 0,
+  "downloads": 256,
+  "tier": "low",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "alea-institute/fcc-submissions",
+  "author": "alea-institute",
+  "created": "2025-03-29T02:24:32.000Z",
+  "likes": 0,
+  "downloads": 785,
+  "tier": "low",
+  "followers": 56,
+  "is_org": false
+ },
+ {
+  "id": "BSC-NLP4BIA/swedish_medical_qa",
+  "author": "BSC-NLP4BIA",
+  "created": "2025-03-17T16:20:18.000Z",
+  "likes": 0,
+  "downloads": 1598,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "lalahaha1/ImageNet_200_2",
+  "author": "lalahaha1",
+  "created": "2025-05-10T13:03:53.000Z",
+  "likes": 0,
+  "downloads": 390,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yunhezhui123/so100_test5",
+  "author": "yunhezhui123",
+  "created": "2025-03-04T08:38:31.000Z",
+  "likes": 0,
+  "downloads": 606,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "qiqiuyi6/MapEval_Test",
+  "author": "qiqiuyi6",
+  "created": "2025-03-17T02:33:52.000Z",
+  "likes": 0,
+  "downloads": 276,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "HanningZhang/mistral1-selected-baseline",
+  "author": "HanningZhang",
+  "created": "2025-05-04T22:20:05.000Z",
+  "likes": 0,
+  "downloads": 127,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "dbaeka/soen_691_msg_test_500_hashed",
+  "author": "dbaeka",
+  "created": "2025-03-17T07:02:42.000Z",
+  "likes": 0,
+  "downloads": 239,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "khairi/uniref50-10",
+  "author": "khairi",
+  "created": "2025-01-27T20:21:25.000Z",
+  "likes": 0,
+  "downloads": 503,
+  "tier": "low",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "gupta-tanish/final-q-alignment-preference-data",
+  "author": "gupta-tanish",
+  "created": "2025-03-20T15:01:08.000Z",
+  "likes": 0,
+  "downloads": 186,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yongtaowu/SlimPajama-6B_small",
+  "author": "yongtaowu",
+  "created": "2025-06-13T20:04:21.000Z",
+  "likes": 0,
+  "downloads": 375,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "QinyuZhao1116/ViRFT_CLS_fgvc_aircraft_4_shot",
+  "author": "QinyuZhao1116",
+  "created": "2025-03-09T22:06:31.000Z",
+  "likes": 0,
+  "downloads": 322,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "yaya-sy/bm-dev",
+  "author": "yaya-sy",
+  "created": "2025-04-18T20:58:59.000Z",
+  "likes": 0,
+  "downloads": 760,
+  "tier": "low",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "nbalepur/planorama",
+  "author": "nbalepur",
+  "created": "2025-04-01T16:00:27.000Z",
+  "likes": 0,
+  "downloads": 282,
+  "tier": "low",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "nduque/robustness_e5",
+  "author": "nduque",
+  "created": "2025-04-03T16:02:46.000Z",
+  "likes": 0,
+  "downloads": 512,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "thailevann/Government_services_QA",
+  "author": "thailevann",
+  "created": "2025-04-24T00:37:35.000Z",
+  "likes": 0,
+  "downloads": 659,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "ssktora/fiqa-dev-bm25-pyserini",
+  "author": "ssktora",
+  "created": "2025-06-11T04:28:22.000Z",
+  "likes": 0,
+  "downloads": 200,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Ankeyta/my-mock-data",
+  "author": "Ankeyta",
+  "created": "2025-05-16T05:38:03.000Z",
+  "likes": 0,
+  "downloads": 1835,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Manifestors/diseased__plants",
+  "author": "Manifestors",
+  "created": "2025-02-02T10:30:21.000Z",
+  "likes": 0,
+  "downloads": 511,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "iAyoD/robocasa_open_single_door_256",
+  "author": "iAyoD",
+  "created": "2025-06-14T09:55:53.000Z",
+  "likes": 0,
+  "downloads": 3282,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "tttx/5pc-mask-collect-aug-0-short-correct",
+  "author": "tttx",
+  "created": "2025-02-21T10:42:03.000Z",
+  "likes": 0,
+  "downloads": 124,
+  "tier": "low",
+  "followers": 8,
+  "is_org": true
+ },
+ {
+  "id": "yu-si/anoma",
+  "author": "yu-si",
+  "created": "2025-02-15T14:20:38.000Z",
+  "likes": 0,
+  "downloads": 226,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "zhifeishen/grasp_and_place",
+  "author": "zhifeishen",
+  "created": "2025-05-20T08:18:38.000Z",
+  "likes": 0,
+  "downloads": 447,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "HungVu2003/opt-350m_beta_0.5_alpha_1.0_num-company_2_dataset_0_for_gen_18",
+  "author": "HungVu2003",
+  "created": "2025-04-28T13:13:34.000Z",
+  "likes": 0,
+  "downloads": 111,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "rntc/pubmed_articles_20250227",
+  "author": "rntc",
+  "created": "2025-02-27T16:18:22.000Z",
+  "likes": 0,
+  "downloads": 2693,
+  "tier": "low",
+  "followers": 23,
+  "is_org": false
+ },
+ {
+  "id": "ZhengyanShi/froggy-training-filtered_trajectories_jun13_2",
+  "author": "ZhengyanShi",
+  "created": "2025-06-17T01:23:11.000Z",
+  "likes": 0,
+  "downloads": 225,
+  "tier": "low",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "qishenfu/SFT_zeroshot_Gemma27B_balanced_plain",
+  "author": "qishenfu",
+  "created": "2025-03-23T22:33:09.000Z",
+  "likes": 0,
+  "downloads": 107,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "frederic-sadrieh/mini-data-processed_meta-llama_Llama-3.2-1B_0_8-train",
+  "author": "frederic-sadrieh",
+  "created": "2025-05-16T02:02:39.000Z",
+  "likes": 0,
+  "downloads": 168,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "LQL-EI/test_json",
+  "author": "LQL-EI",
+  "created": "2025-05-12T10:58:52.000Z",
+  "likes": 0,
+  "downloads": 27,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "TAUR-dev/SF-Eval-SIE-SIEXP_concat_until_correct_and_filter__ME__lm2d-rl-1751304041_483132",
+  "author": "TAUR-dev",
+  "created": "2025-06-30T12:20:41.000Z",
+  "likes": 0,
+  "downloads": 176,
+  "tier": "low",
+  "followers": 23,
+  "is_org": true
+ },
+ {
+  "id": "SmallDoge/Reason-Distill-processed",
+  "author": "SmallDoge",
+  "created": "2025-03-30T03:49:19.000Z",
+  "likes": 0,
+  "downloads": 433,
+  "tier": "low",
+  "followers": 138,
+  "is_org": true
+ },
+ {
+  "id": "alea-institute/kl3m-data-dotgov-www.imls.gov",
+  "author": "alea-institute",
+  "created": "2025-01-31T18:16:18.000Z",
+  "likes": 0,
+  "downloads": 299,
+  "tier": "low",
+  "followers": 56,
+  "is_org": false
+ },
+ {
+  "id": "test-gen/code_humaneval_qwen2.5-3b_t0.1_n8_tests_humaneval_qwen2-3b-easy-unique_lr1e-6_t0.0_n1",
+  "author": "test-gen",
+  "created": "2025-05-20T18:30:30.000Z",
+  "likes": 0,
+  "downloads": 152,
+  "tier": "low",
+  "followers": 1,
+  "is_org": true
+ },
+ {
+  "id": "Brench/MetaMathQA-R1-Distill-395K",
+  "author": "Brench",
+  "created": "2025-02-28T09:28:09.000Z",
+  "likes": 0,
+  "downloads": 341,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "Guilherme34/Reasoning-deepseek-tiny",
+  "author": "Guilherme34",
+  "created": "2025-05-09T15:38:42.000Z",
+  "likes": 0,
+  "downloads": 177,
+  "tier": "low",
+  "followers": 128,
+  "is_org": false
+ },
+ {
+  "id": "darthPanda/Sher_M_Ahmad",
+  "author": "darthPanda",
+  "created": "2025-01-28T14:41:15.000Z",
+  "likes": 0,
+  "downloads": 342,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "neelabh17/new_news_exploded_prompt_n_10_d_perc_0_num_gen_10_Qwen2.5-1.5B-Instruct",
+  "author": "neelabh17",
+  "created": "2025-05-15T03:57:10.000Z",
+  "likes": 0,
+  "downloads": 133,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "test-gen/livecodebench_qwen-7b-easy_t0.0_n1_generated_tests",
+  "author": "test-gen",
+  "created": "2025-05-12T22:46:51.000Z",
+  "likes": 0,
+  "downloads": 193,
+  "tier": "low",
+  "followers": 1,
+  "is_org": true
+ },
+ {
+  "id": "WYCN/NChat",
+  "author": "WYCN",
+  "created": "2025-02-09T03:15:09.000Z",
+  "likes": 0,
+  "downloads": 155,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Guoyanjun/try",
+  "author": "Guoyanjun",
+  "created": "2025-06-10T06:07:46.000Z",
+  "likes": 0,
+  "downloads": 71,
+  "tier": "low",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "marcuscedricridia/Creative_Writing-ShareGPT-deepclean-sharegpt",
+  "author": "marcuscedricridia",
+  "created": "2025-04-03T21:30:12.000Z",
+  "likes": 0,
+  "downloads": 311,
+  "tier": "low",
+  "followers": 14,
+  "is_org": false
+ },
+ {
+  "id": "MAN-HUMAN/006_behavior_dataset_0_8999",
+  "author": "MAN-HUMAN",
+  "created": "2025-05-03T08:52:58.000Z",
+  "likes": 0,
+  "downloads": 6200,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mmzoellner/ATD2",
+  "author": "mmzoellner",
+  "created": "2025-05-26T13:02:47.000Z",
+  "likes": 0,
+  "downloads": 407,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "balaji-ramk/parliamentary-debate-cases",
+  "author": "balaji-ramk",
+  "created": "2025-02-22T18:25:13.000Z",
+  "likes": 0,
+  "downloads": 183,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "semran1/ultrafine-code",
+  "author": "semran1",
+  "created": "2025-06-21T03:57:04.000Z",
+  "likes": 0,
+  "downloads": 244,
+  "tier": "low",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "TenneyHu/wildpig",
+  "author": "TenneyHu",
+  "created": "2025-05-14T11:35:33.000Z",
+  "likes": 0,
+  "downloads": 153,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Mathieu-Thomas-JOSSET/PLOTFINDER",
+  "author": "Mathieu-Thomas-JOSSET",
+  "created": "2025-06-22T17:45:41.000Z",
+  "likes": 0,
+  "downloads": 206,
+  "tier": "low",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "DebasishDhal99/pl-de-toponym-translation-outputs",
+  "author": "DebasishDhal99",
+  "created": "2025-05-16T13:14:06.000Z",
+  "likes": 0,
+  "downloads": 324,
+  "tier": "low",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "zakaladin/white_wolf_BW",
+  "author": "zakaladin",
+  "created": "2025-02-11T14:08:28.000Z",
+  "likes": 0,
+  "downloads": 872,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "tennant/imagenet-partially-captioned",
+  "author": "tennant",
+  "created": "2025-04-16T14:09:47.000Z",
+  "likes": 0,
+  "downloads": 340,
+  "tier": "low",
+  "followers": 10,
+  "is_org": false
+ },
+ {
+  "id": "sanujen/Legacy-Font-and-Romanized-Tamil-Corpus",
+  "author": "sanujen",
+  "created": "2025-05-16T07:34:08.000Z",
+  "likes": 0,
+  "downloads": 284,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "kuvvi/OT-110K",
+  "author": "kuvvi",
+  "created": "2025-02-26T09:16:58.000Z",
+  "likes": 0,
+  "downloads": 480,
+  "tier": "low",
+  "followers": 8,
+  "is_org": false
+ },
+ {
+  "id": "Cyxbat/ManOnTheMoon",
+  "author": "Cyxbat",
+  "created": "2025-05-15T02:53:49.000Z",
+  "likes": 0,
+  "downloads": 203,
+  "tier": "low",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "leibnitz-lab/military_vehicles",
+  "author": "leibnitz-lab",
+  "created": "2025-01-13T11:20:15.000Z",
+  "likes": 2,
+  "downloads": 18978,
+  "tier": "medium",
+  "followers": 5,
+  "is_org": true
+ },
+ {
+  "id": "lumolabs-ai/Lumo-Fart-DS-Instruct",
+  "author": "lumolabs-ai",
+  "created": "2025-03-18T13:21:44.000Z",
+  "likes": 3,
+  "downloads": 1292,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "graycatHCO3/BCICIV_2A_tensor",
+  "author": "graycatHCO3",
+  "created": "2025-03-07T11:18:55.000Z",
+  "likes": 1,
+  "downloads": 3233,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "oss-codes/Coding-Conversational-Dataset-Indic",
+  "author": "oss-codes",
+  "created": "2025-04-07T10:43:42.000Z",
+  "likes": 1,
+  "downloads": 16173,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": true
+ },
+ {
+  "id": "wrl2003/StereoFromCarla",
+  "author": "wrl2003",
+  "created": "2025-05-03T03:10:34.000Z",
+  "likes": 1,
+  "downloads": 3675,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "adorkin/general-instruction-augmented-corpora",
+  "author": "adorkin",
+  "created": "2025-02-14T10:57:08.000Z",
+  "likes": 3,
+  "downloads": 6321,
+  "tier": "medium",
+  "followers": 50,
+  "is_org": false
+ },
+ {
+  "id": "nbeerbower/NikuX-DPO-captioned",
+  "author": "nbeerbower",
+  "created": "2025-06-25T02:08:28.000Z",
+  "likes": 1,
+  "downloads": 418,
+  "tier": "medium",
+  "followers": 372,
+  "is_org": false
+ },
+ {
+  "id": "WestAI-SC/RadLink",
+  "author": "WestAI-SC",
+  "created": "2025-03-26T14:01:35.000Z",
+  "likes": 1,
+  "downloads": 428,
+  "tier": "medium",
+  "followers": 42,
+  "is_org": true
+ },
+ {
+  "id": "kxm1k4m1/generate_phishing_email_final",
+  "author": "kxm1k4m1",
+  "created": "2025-06-06T13:48:52.000Z",
+  "likes": 1,
+  "downloads": 536,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "reese-green/osrs-items-minimal-unnoted",
+  "author": "reese-green",
+  "created": "2025-02-14T01:38:20.000Z",
+  "likes": 1,
+  "downloads": 319,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "cpuimage/CelebAHairMask-HQ",
+  "author": "cpuimage",
+  "created": "2025-03-01T15:34:24.000Z",
+  "likes": 2,
+  "downloads": 1047,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mayurasandakalum/singlish-to-sinhala-dataset",
+  "author": "mayurasandakalum",
+  "created": "2025-01-14T11:30:01.000Z",
+  "likes": 1,
+  "downloads": 651,
+  "tier": "medium",
+  "followers": 11,
+  "is_org": false
+ },
+ {
+  "id": "datasetter458/central_gpu",
+  "author": "datasetter458",
+  "created": "2025-04-17T23:04:39.000Z",
+  "likes": 1,
+  "downloads": 222,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "imageomics/Hawaii-beetles",
+  "author": "imageomics",
+  "created": "2025-05-21T21:56:49.000Z",
+  "likes": 1,
+  "downloads": 4365,
+  "tier": "medium",
+  "followers": 202,
+  "is_org": true
+ },
+ {
+  "id": "esholmess/gi-foods-tr",
+  "author": "esholmess",
+  "created": "2025-06-15T20:57:00.000Z",
+  "likes": 1,
+  "downloads": 435,
+  "tier": "medium",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "wangxiangyu0814/UAV-Flow-Sim",
+  "author": "wangxiangyu0814",
+  "created": "2025-05-14T03:26:27.000Z",
+  "likes": 4,
+  "downloads": 26327,
+  "tier": "medium",
+  "followers": 8,
+  "is_org": false
+ },
+ {
+  "id": "seljux/turkce_karisik",
+  "author": "seljux",
+  "created": "2025-02-04T21:42:39.000Z",
+  "likes": 1,
+  "downloads": 18471,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "DEDENBaccan/daylitrafict",
+  "author": "DEDENBaccan",
+  "created": "2025-04-01T15:18:13.000Z",
+  "likes": 1,
+  "downloads": 162,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "sumyyyyy/slides_archive",
+  "author": "sumyyyyy",
+  "created": "2025-02-28T10:53:34.000Z",
+  "likes": 1,
+  "downloads": 15,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "rasyosef/amharic-passage-retrieval-dataset",
+  "author": "rasyosef",
+  "created": "2025-05-19T19:48:52.000Z",
+  "likes": 1,
+  "downloads": 1088,
+  "tier": "medium",
+  "followers": 42,
+  "is_org": false
+ },
+ {
+  "id": "MohamedAli77/room-dataset",
+  "author": "MohamedAli77",
+  "created": "2025-05-06T15:15:11.000Z",
+  "likes": 1,
+  "downloads": 751,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Ricky06662/RTime-QA",
+  "author": "Ricky06662",
+  "created": "2025-05-25T12:32:26.000Z",
+  "likes": 1,
+  "downloads": 270,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "samuelyeh/HalluEntity",
+  "author": "samuelyeh",
+  "created": "2025-04-23T14:05:58.000Z",
+  "likes": 4,
+  "downloads": 1224,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "PocketDoc/Dans-Failuremaxx-Adventure",
+  "author": "PocketDoc",
+  "created": "2025-01-09T11:54:18.000Z",
+  "likes": 2,
+  "downloads": 508,
+  "tier": "medium",
+  "followers": 397,
+  "is_org": false
+ },
+ {
+  "id": "lscpku/LogicVista",
+  "author": "lscpku",
+  "created": "2025-05-29T09:02:21.000Z",
+  "likes": 1,
+  "downloads": 14695,
+  "tier": "medium",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "drwlf/Claria-Psychology",
+  "author": "drwlf",
+  "created": "2025-05-20T00:25:04.000Z",
+  "likes": 2,
+  "downloads": 452,
+  "tier": "medium",
+  "followers": 35,
+  "is_org": false
+ },
+ {
+  "id": "nkasmanoff/retail_detector_v2",
+  "author": "nkasmanoff",
+  "created": "2025-06-21T16:49:16.000Z",
+  "likes": 1,
+  "downloads": 739,
+  "tier": "medium",
+  "followers": 17,
+  "is_org": false
+ },
+ {
+  "id": "Flaglab/latam-xix-tagged-augmented",
+  "author": "Flaglab",
+  "created": "2025-02-20T23:26:33.000Z",
+  "likes": 1,
+  "downloads": 460,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "PartyPond/product-images",
+  "author": "PartyPond",
+  "created": "2025-04-05T19:04:27.000Z",
+  "likes": 1,
+  "downloads": 143,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "literAlbDev/hatexplain",
+  "author": "literAlbDev",
+  "created": "2025-05-22T15:08:19.000Z",
+  "likes": 1,
+  "downloads": 636,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "bommina/hair_dataset",
+  "author": "bommina",
+  "created": "2025-02-10T05:55:44.000Z",
+  "likes": 2,
+  "downloads": 1203,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "laizhen/LLM-attackers",
+  "author": "laizhen",
+  "created": "2025-02-13T14:19:02.000Z",
+  "likes": 1,
+  "downloads": 448,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "cksqs/SynStard-1000",
+  "author": "cksqs",
+  "created": "2025-05-25T03:06:11.000Z",
+  "likes": 2,
+  "downloads": 87136,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mlfoundations-dev/SCP_40k-claude-3-7-sonnet-16k_verfication_run",
+  "author": "mlfoundations-dev",
+  "created": "2025-02-27T17:40:29.000Z",
+  "likes": 2,
+  "downloads": 387,
+  "tier": "medium",
+  "followers": 141,
+  "is_org": true
+ },
+ {
+  "id": "Nurhuu/random",
+  "author": "Nurhuu",
+  "created": "2025-01-18T15:06:44.000Z",
+  "likes": 1,
+  "downloads": 215,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "G-A-I/MMLU-Pro-random-split-0.9-0.1",
+  "author": "G-A-I",
+  "created": "2025-06-15T00:26:50.000Z",
+  "likes": 1,
+  "downloads": 520,
+  "tier": "medium",
+  "followers": 9,
+  "is_org": true
+ },
+ {
+  "id": "JamesBegin/LongBench-v2-Pause1",
+  "author": "JamesBegin",
+  "created": "2025-03-12T15:36:55.000Z",
+  "likes": 1,
+  "downloads": 765,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "illuin-conteb/esg-reports",
+  "author": "illuin-conteb",
+  "created": "2025-05-02T16:49:47.000Z",
+  "likes": 1,
+  "downloads": 2664,
+  "tier": "medium",
+  "followers": 22,
+  "is_org": true
+ },
+ {
+  "id": "neoyipeng/financial_reasoning_aggregated",
+  "author": "neoyipeng",
+  "created": "2025-05-02T04:55:29.000Z",
+  "likes": 2,
+  "downloads": 3873,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Ktzoras/shipping_literature_embeddings",
+  "author": "Ktzoras",
+  "created": "2025-04-28T08:11:28.000Z",
+  "likes": 1,
+  "downloads": 232,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "primerL/real_world_sample",
+  "author": "primerL",
+  "created": "2025-05-21T08:21:37.000Z",
+  "likes": 1,
+  "downloads": 1476,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "DylanDDeng/ruozhiba-dataset",
+  "author": "DylanDDeng",
+  "created": "2025-02-11T15:59:15.000Z",
+  "likes": 2,
+  "downloads": 385,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "trungnam299/reddit_dataset_44",
+  "author": "trungnam299",
+  "created": "2025-01-04T10:08:15.000Z",
+  "likes": 1,
+  "downloads": 1959,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "HichTala/ygoprodeck-dataset",
+  "author": "HichTala",
+  "created": "2025-05-09T08:18:00.000Z",
+  "likes": 3,
+  "downloads": 3331,
+  "tier": "medium",
+  "followers": 6,
+  "is_org": false
+ },
+ {
+  "id": "mrciomnl/spotify_dataset",
+  "author": "mrciomnl",
+  "created": "2025-03-03T22:19:47.000Z",
+  "likes": 1,
+  "downloads": 702,
+  "tier": "medium",
+  "followers": 19,
+  "is_org": false
+ },
+ {
+  "id": "bibom2001/F2Seg",
+  "author": "bibom2001",
+  "created": "2025-02-23T00:28:04.000Z",
+  "likes": 1,
+  "downloads": 1229,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Remoraj69/smartphone",
+  "author": "Remoraj69",
+  "created": "2025-05-03T04:43:43.000Z",
+  "likes": 1,
+  "downloads": 86,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SmallDoge/Thoughts-Problems-25k",
+  "author": "SmallDoge",
+  "created": "2025-03-12T07:15:22.000Z",
+  "likes": 1,
+  "downloads": 381,
+  "tier": "medium",
+  "followers": 138,
+  "is_org": true
+ },
+ {
+  "id": "SmilingWolf/camie-tagger-vs-wd-tagger-val",
+  "author": "SmilingWolf",
+  "created": "2025-03-15T13:57:42.000Z",
+  "likes": 2,
+  "downloads": 917,
+  "tier": "medium",
+  "followers": 665,
+  "is_org": false
+ },
+ {
+  "id": "wangd12/XBRL_analysis",
+  "author": "wangd12",
+  "created": "2025-05-05T01:59:28.000Z",
+  "likes": 2,
+  "downloads": 2327,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "ctbfl/sort_battery",
+  "author": "ctbfl",
+  "created": "2025-01-17T13:37:08.000Z",
+  "likes": 1,
+  "downloads": 1938,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "kubernetes-bad/chub-embed-projection",
+  "author": "kubernetes-bad",
+  "created": "2025-04-14T15:40:56.000Z",
+  "likes": 1,
+  "downloads": 253,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Sao10K/data_sample_pub",
+  "author": "Sao10K",
+  "created": "2025-01-10T13:52:13.000Z",
+  "likes": 2,
+  "downloads": 274,
+  "tier": "medium",
+  "followers": 1910,
+  "is_org": false
+ },
+ {
+  "id": "textdetox/multilingual_toxic_spans",
+  "author": "textdetox",
+  "created": "2025-02-04T21:24:29.000Z",
+  "likes": 3,
+  "downloads": 2868,
+  "tier": "medium",
+  "followers": 40,
+  "is_org": true
+ },
+ {
+  "id": "wxqzzw/GTD",
+  "author": "wxqzzw",
+  "created": "2025-05-11T15:12:34.000Z",
+  "likes": 2,
+  "downloads": 3402,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "TO-Da/tachlhit-darija",
+  "author": "TO-Da",
+  "created": "2025-01-13T18:00:32.000Z",
+  "likes": 2,
+  "downloads": 451,
+  "tier": "medium",
+  "followers": 15,
+  "is_org": true
+ },
+ {
+  "id": "MERA-evaluation/CodeCorrectness",
+  "author": "MERA-evaluation",
+  "created": "2025-03-31T07:23:47.000Z",
+  "likes": 4,
+  "downloads": 4766,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "zguo0525/ArtBench",
+  "author": "zguo0525",
+  "created": "2025-02-13T02:06:04.000Z",
+  "likes": 2,
+  "downloads": 1657,
+  "tier": "medium",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "YangYang-Research/web-attack-detection",
+  "author": "YangYang-Research",
+  "created": "2025-03-11T15:50:40.000Z",
+  "likes": 1,
+  "downloads": 993,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "AIxBlock/Human-to-machine-Japanese-audio-call-center-conversations",
+  "author": "AIxBlock",
+  "created": "2025-05-19T17:02:22.000Z",
+  "likes": 2,
+  "downloads": 611,
+  "tier": "medium",
+  "followers": 296,
+  "is_org": false
+ },
+ {
+  "id": "MinamiAoba/KOR_data",
+  "author": "MinamiAoba",
+  "created": "2025-01-31T09:13:42.000Z",
+  "likes": 1,
+  "downloads": 312,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "arg-tech/MysteryZebra",
+  "author": "arg-tech",
+  "created": "2025-05-20T15:01:22.000Z",
+  "likes": 1,
+  "downloads": 3547,
+  "tier": "medium",
+  "followers": 9,
+  "is_org": true
+ },
+ {
+  "id": "Gregniuki/g2p_thai_ipa",
+  "author": "Gregniuki",
+  "created": "2025-04-20T12:16:34.000Z",
+  "likes": 1,
+  "downloads": 851,
+  "tier": "medium",
+  "followers": 17,
+  "is_org": false
+ },
+ {
+  "id": "ImranzamanML/Quran-Verses-Fasting-Pilgrimage",
+  "author": "ImranzamanML",
+  "created": "2025-04-26T19:47:41.000Z",
+  "likes": 1,
+  "downloads": 300,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "IbrahimAmin/egyptian-arabic-hate-speech",
+  "author": "IbrahimAmin",
+  "created": "2025-05-02T12:37:00.000Z",
+  "likes": 2,
+  "downloads": 1659,
+  "tier": "medium",
+  "followers": 17,
+  "is_org": false
+ },
+ {
+  "id": "UniversalCEFR/cefr_sp_en",
+  "author": "UniversalCEFR",
+  "created": "2025-05-26T14:51:18.000Z",
+  "likes": 3,
+  "downloads": 2771,
+  "tier": "medium",
+  "followers": 65,
+  "is_org": true
+ },
+ {
+  "id": "giseldo/neo_ara_v2",
+  "author": "giseldo",
+  "created": "2025-05-28T20:34:47.000Z",
+  "likes": 1,
+  "downloads": 446,
+  "tier": "medium",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "vietnhat/grandpa-interview-dataset",
+  "author": "vietnhat",
+  "created": "2025-06-03T12:34:59.000Z",
+  "likes": 1,
+  "downloads": 361,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "catherinearnett/monolingual-tokenizer-data",
+  "author": "catherinearnett",
+  "created": "2025-04-19T15:37:08.000Z",
+  "likes": 1,
+  "downloads": 11958,
+  "tier": "medium",
+  "followers": 121,
+  "is_org": false
+ },
+ {
+  "id": "afrizalha/Centhini-1-Javanese",
+  "author": "afrizalha",
+  "created": "2025-02-05T09:24:33.000Z",
+  "likes": 3,
+  "downloads": 652,
+  "tier": "medium",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "Dricz/515k-Hotel-Reviews-In-Europe",
+  "author": "Dricz",
+  "created": "2025-01-29T15:25:07.000Z",
+  "likes": 3,
+  "downloads": 2227,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "andreapdr/LID-XSUM",
+  "author": "andreapdr",
+  "created": "2025-06-04T10:23:24.000Z",
+  "likes": 3,
+  "downloads": 1379,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "Mohamedal/eval_act_so100_peach200k",
+  "author": "Mohamedal",
+  "created": "2025-04-25T10:22:44.000Z",
+  "likes": 1,
+  "downloads": 886,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Tonic/ESMA-Auto-Bench",
+  "author": "Tonic",
+  "created": "2025-06-03T13:23:23.000Z",
+  "likes": 1,
+  "downloads": 737,
+  "tier": "medium",
+  "followers": 643,
+  "is_org": false
+ },
+ {
+  "id": "FirasHussain/SitePlans",
+  "author": "FirasHussain",
+  "created": "2025-06-10T14:50:25.000Z",
+  "likes": 1,
+  "downloads": 192,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "reasonrag/RAG_ProGuide",
+  "author": "reasonrag",
+  "created": "2025-05-19T07:54:27.000Z",
+  "likes": 1,
+  "downloads": 688,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "kylemesh19/clean_smart_contract",
+  "author": "kylemesh19",
+  "created": "2025-05-22T18:35:14.000Z",
+  "likes": 1,
+  "downloads": 271,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "f1rdavs/tajik-words-translation",
+  "author": "f1rdavs",
+  "created": "2025-05-14T03:36:18.000Z",
+  "likes": 1,
+  "downloads": 256,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "JQ1984/GDPRLLMTRainingdata",
+  "author": "JQ1984",
+  "created": "2025-04-27T11:32:43.000Z",
+  "likes": 2,
+  "downloads": 484,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "simplescaling/aime24_nofigures",
+  "author": "simplescaling",
+  "created": "2025-01-16T03:45:11.000Z",
+  "likes": 2,
+  "downloads": 59823,
+  "tier": "medium",
+  "followers": 320,
+  "is_org": true
+ },
+ {
+  "id": "harryzf/visual_emotion",
+  "author": "harryzf",
+  "created": "2025-05-08T04:15:38.000Z",
+  "likes": 1,
+  "downloads": 87,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "styal/smollm-corpus-3.5M",
+  "author": "styal",
+  "created": "2025-03-07T16:12:02.000Z",
+  "likes": 2,
+  "downloads": 3707,
+  "tier": "medium",
+  "followers": 6,
+  "is_org": false
+ },
+ {
+  "id": "Amirmerfan/voice_orders_data_sample",
+  "author": "Amirmerfan",
+  "created": "2025-03-19T16:30:44.000Z",
+  "likes": 1,
+  "downloads": 341,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "fywang/calvin-debug-lerobot",
+  "author": "fywang",
+  "created": "2025-06-27T00:53:37.000Z",
+  "likes": 1,
+  "downloads": 1850,
+  "tier": "medium",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "Gbssreejith/indian-english-voice",
+  "author": "Gbssreejith",
+  "created": "2025-01-28T08:50:49.000Z",
+  "likes": 1,
+  "downloads": 840,
+  "tier": "medium",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "anna-bozhenko/artworks",
+  "author": "anna-bozhenko",
+  "created": "2025-05-15T06:57:43.000Z",
+  "likes": 1,
+  "downloads": 479,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "zhehuderek/YESBUT_Benchmark_V2",
+  "author": "zhehuderek",
+  "created": "2025-03-15T03:55:32.000Z",
+  "likes": 1,
+  "downloads": 738,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "AI-Art-Collab/384",
+  "author": "AI-Art-Collab",
+  "created": "2025-06-12T04:49:56.000Z",
+  "likes": 1,
+  "downloads": 2235,
+  "tier": "medium",
+  "followers": 7,
+  "is_org": true
+ },
+ {
+  "id": "mteb/SpanishSentimentClassification",
+  "author": "mteb",
+  "created": "2025-06-19T19:46:25.000Z",
+  "likes": 1,
+  "downloads": 1046,
+  "tier": "medium",
+  "followers": 1211,
+  "is_org": true
+ },
+ {
+  "id": "zhangjun640/Chinese_interview_small",
+  "author": "zhangjun640",
+  "created": "2025-06-14T01:00:32.000Z",
+  "likes": 2,
+  "downloads": 651,
+  "tier": "medium",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "LVSTCK/openbookqa-mk",
+  "author": "LVSTCK",
+  "created": "2025-01-04T14:09:32.000Z",
+  "likes": 1,
+  "downloads": 822,
+  "tier": "medium",
+  "followers": 15,
+  "is_org": true
+ },
+ {
+  "id": "yxnd150150/uieb_degraded_watertype",
+  "author": "yxnd150150",
+  "created": "2025-01-02T15:29:39.000Z",
+  "likes": 1,
+  "downloads": 415,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "wheresmyhair/merged_sft_dataset",
+  "author": "wheresmyhair",
+  "created": "2025-04-16T02:40:39.000Z",
+  "likes": 1,
+  "downloads": 883,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "FrenzyMath/Herald_statements",
+  "author": "FrenzyMath",
+  "created": "2025-02-13T10:54:52.000Z",
+  "likes": 2,
+  "downloads": 2506,
+  "tier": "medium",
+  "followers": 34,
+  "is_org": true
+ },
+ {
+  "id": "YeahOuts/bert-dataset",
+  "author": "YeahOuts",
+  "created": "2025-04-03T04:19:46.000Z",
+  "likes": 1,
+  "downloads": 361,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "casey-martin/BUTTON-MT-function-calling",
+  "author": "casey-martin",
+  "created": "2025-03-20T20:29:17.000Z",
+  "likes": 2,
+  "downloads": 1897,
+  "tier": "medium",
+  "followers": 11,
+  "is_org": false
+ },
+ {
+  "id": "AntZet/clothes_for_men_women_children",
+  "author": "AntZet",
+  "created": "2025-01-17T12:02:27.000Z",
+  "likes": 3,
+  "downloads": 4911,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "snskrt/Sanskrit_shlokas",
+  "author": "snskrt",
+  "created": "2025-05-25T19:16:45.000Z",
+  "likes": 1,
+  "downloads": 221,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "aopolin-lv/libero_spatial_no_noops_lerobot_v21",
+  "author": "aopolin-lv",
+  "created": "2025-04-09T12:35:10.000Z",
+  "likes": 2,
+  "downloads": 8048,
+  "tier": "medium",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "venera-ai/VietnameseMedBench",
+  "author": "venera-ai",
+  "created": "2025-05-16T11:52:06.000Z",
+  "likes": 4,
+  "downloads": 2180,
+  "tier": "medium",
+  "followers": 20,
+  "is_org": true
+ },
+ {
+  "id": "Naholav/llama3.2-java-codegen-90sft-10meta-claude-v1",
+  "author": "Naholav",
+  "created": "2025-06-11T08:57:05.000Z",
+  "likes": 1,
+  "downloads": 1102,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "Heriman/n8n_preped",
+  "author": "Heriman",
+  "created": "2025-04-09T01:11:48.000Z",
+  "likes": 1,
+  "downloads": 196,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "lemon-mint/OpenThoughts-114k-Normalized",
+  "author": "lemon-mint",
+  "created": "2025-01-29T15:48:24.000Z",
+  "likes": 1,
+  "downloads": 1000,
+  "tier": "medium",
+  "followers": 67,
+  "is_org": false
+ },
+ {
+  "id": "common-pile/foodista_filtered",
+  "author": "common-pile",
+  "created": "2025-05-23T06:19:23.000Z",
+  "likes": 2,
+  "downloads": 1506,
+  "tier": "medium",
+  "followers": 322,
+  "is_org": true
+ },
+ {
+  "id": "meandyou200175/data_new_no_hentai",
+  "author": "meandyou200175",
+  "created": "2025-03-18T07:02:39.000Z",
+  "likes": 3,
+  "downloads": 380,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "pio-benchmark/PIO",
+  "author": "pio-benchmark",
+  "created": "2025-05-15T05:52:04.000Z",
+  "likes": 2,
+  "downloads": 1026,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Ben012345/NurValues",
+  "author": "Ben012345",
+  "created": "2025-05-07T12:31:43.000Z",
+  "likes": 3,
+  "downloads": 213,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "CLAPv2/MusicCaps",
+  "author": "CLAPv2",
+  "created": "2025-05-04T16:05:59.000Z",
+  "likes": 4,
+  "downloads": 4354,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "razaulhaq/eurlex_sdg_coverage",
+  "author": "razaulhaq",
+  "created": "2025-02-11T13:06:20.000Z",
+  "likes": 1,
+  "downloads": 353,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "bitmind/GenImage_MidJourney",
+  "author": "bitmind",
+  "created": "2025-03-17T07:43:13.000Z",
+  "likes": 3,
+  "downloads": 26749,
+  "tier": "medium",
+  "followers": 40,
+  "is_org": true
+ },
+ {
+  "id": "BitAgent/tool_shuffle_small",
+  "author": "BitAgent",
+  "created": "2025-02-13T18:34:50.000Z",
+  "likes": 2,
+  "downloads": 5399,
+  "tier": "medium",
+  "followers": 11,
+  "is_org": false
+ },
+ {
+  "id": "sdiazlor/medical-reasoning-dataset",
+  "author": "sdiazlor",
+  "created": "2025-02-08T14:22:48.000Z",
+  "likes": 2,
+  "downloads": 2934,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "zhengchong/DressCode-Test",
+  "author": "zhengchong",
+  "created": "2025-06-24T02:52:16.000Z",
+  "likes": 1,
+  "downloads": 674,
+  "tier": "medium",
+  "followers": 61,
+  "is_org": false
+ },
+ {
+  "id": "tobil/imsa",
+  "author": "tobil",
+  "created": "2025-05-31T18:19:43.000Z",
+  "likes": 2,
+  "downloads": 3398,
+  "tier": "medium",
+  "followers": 50,
+  "is_org": false
+ },
+ {
+  "id": "nmixx-fin/NMIXX_train",
+  "author": "nmixx-fin",
+  "created": "2025-05-31T12:21:23.000Z",
+  "likes": 2,
+  "downloads": 496,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "prithivMLmods/Content-Articles",
+  "author": "prithivMLmods",
+  "created": "2025-01-17T17:22:08.000Z",
+  "likes": 3,
+  "downloads": 892,
+  "tier": "medium",
+  "followers": 6099,
+  "is_org": false
+ },
+ {
+  "id": "Minami-su/Amara-o1-dataset",
+  "author": "Minami-su",
+  "created": "2025-01-08T09:32:43.000Z",
+  "likes": 3,
+  "downloads": 368,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SPCL/arxiv-for-fanns-large",
+  "author": "SPCL",
+  "created": "2025-05-21T14:04:24.000Z",
+  "likes": 1,
+  "downloads": 2979,
+  "tier": "medium",
+  "followers": 9,
+  "is_org": true
+ },
+ {
+  "id": "TaiMingLu/GenVerse",
+  "author": "TaiMingLu",
+  "created": "2025-04-16T14:41:15.000Z",
+  "likes": 1,
+  "downloads": 7645,
+  "tier": "medium",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "QuickdigiLLC/DeepAIM-AIM-G1",
+  "author": "QuickdigiLLC",
+  "created": "2025-05-25T04:45:08.000Z",
+  "likes": 2,
+  "downloads": 685,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": true
+ },
+ {
+  "id": "yensonalvi6/ginecologia-venezuela",
+  "author": "yensonalvi6",
+  "created": "2025-06-20T01:04:38.000Z",
+  "likes": 1,
+  "downloads": 330,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "12kimih/HiCUPID",
+  "author": "12kimih",
+  "created": "2025-05-28T08:32:45.000Z",
+  "likes": 1,
+  "downloads": 2585,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "matgizu99/facial-recognition",
+  "author": "matgizu99",
+  "created": "2025-05-08T00:40:05.000Z",
+  "likes": 1,
+  "downloads": 1919,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "PatrickHaller/fineweb-2-de-1B",
+  "author": "PatrickHaller",
+  "created": "2025-02-18T14:07:46.000Z",
+  "likes": 1,
+  "downloads": 1073,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Sidney-Lisanza/LG_tokens_pinder",
+  "author": "Sidney-Lisanza",
+  "created": "2025-03-11T15:37:22.000Z",
+  "likes": 1,
+  "downloads": 2530,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "freddie/PokeShadowBench",
+  "author": "freddie",
+  "created": "2025-05-14T02:59:48.000Z",
+  "likes": 2,
+  "downloads": 1207,
+  "tier": "medium",
+  "followers": 10,
+  "is_org": false
+ },
+ {
+  "id": "Svngoku/PanAfriQA",
+  "author": "Svngoku",
+  "created": "2025-02-27T01:45:25.000Z",
+  "likes": 1,
+  "downloads": 642,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "llm-jp/llm-jp-instructions-jculture",
+  "author": "llm-jp",
+  "created": "2025-04-08T06:47:14.000Z",
+  "likes": 3,
+  "downloads": 430,
+  "tier": "medium",
+  "followers": 717,
+  "is_org": true
+ },
+ {
+  "id": "samhormozian/GasLeakPlumes",
+  "author": "samhormozian",
+  "created": "2025-06-04T22:25:59.000Z",
+  "likes": 1,
+  "downloads": 2851,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yili7eli/UniBench",
+  "author": "yili7eli",
+  "created": "2025-05-14T11:54:34.000Z",
+  "likes": 2,
+  "downloads": 426,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "bumbledeep/aptos",
+  "author": "bumbledeep",
+  "created": "2025-04-06T14:59:44.000Z",
+  "likes": 1,
+  "downloads": 2524,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "j-h-f/S2WC-RSS-like",
+  "author": "j-h-f",
+  "created": "2025-04-29T11:03:18.000Z",
+  "likes": 2,
+  "downloads": 388,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "Cath25/twitter-financial-news-topic",
+  "author": "Cath25",
+  "created": "2025-04-02T14:34:35.000Z",
+  "likes": 1,
+  "downloads": 259,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "celsowm/jurisprudencias_tjdf",
+  "author": "celsowm",
+  "created": "2025-03-02T13:07:30.000Z",
+  "likes": 1,
+  "downloads": 514,
+  "tier": "medium",
+  "followers": 64,
+  "is_org": false
+ },
+ {
+  "id": "BLESSENA30/english_tamil_slang",
+  "author": "BLESSENA30",
+  "created": "2025-02-20T10:32:43.000Z",
+  "likes": 1,
+  "downloads": 413,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "AIxBlock/Japanese-short-utterances",
+  "author": "AIxBlock",
+  "created": "2025-05-08T23:50:14.000Z",
+  "likes": 3,
+  "downloads": 432,
+  "tier": "medium",
+  "followers": 296,
+  "is_org": false
+ },
+ {
+  "id": "TongueProjectTCM/color-classification-opensource",
+  "author": "TongueProjectTCM",
+  "created": "2025-03-19T02:28:45.000Z",
+  "likes": 1,
+  "downloads": 731,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "PKU-Alignment/BeaverTails-V",
+  "author": "PKU-Alignment",
+  "created": "2025-03-22T12:11:28.000Z",
+  "likes": 4,
+  "downloads": 12849,
+  "tier": "medium",
+  "followers": 194,
+  "is_org": true
+ },
+ {
+  "id": "Mxode/Fineweb-Edu-Chinese-V2.1-merged-score4_5",
+  "author": "Mxode",
+  "created": "2025-04-17T14:23:47.000Z",
+  "likes": 4,
+  "downloads": 4541,
+  "tier": "medium",
+  "followers": 47,
+  "is_org": false
+ },
+ {
+  "id": "NbAiLab/nb-fineweb2-edu-bokmaal",
+  "author": "NbAiLab",
+  "created": "2025-06-30T16:49:59.000Z",
+  "likes": 4,
+  "downloads": 684,
+  "tier": "medium",
+  "followers": 506,
+  "is_org": true
+ },
+ {
+  "id": "Ego-R1/h-rag_database",
+  "author": "Ego-R1",
+  "created": "2025-06-09T09:17:34.000Z",
+  "likes": 4,
+  "downloads": 10400,
+  "tier": "medium",
+  "followers": 10,
+  "is_org": true
+ },
+ {
+  "id": "KeWangRobotics/piper_test",
+  "author": "KeWangRobotics",
+  "created": "2025-01-16T11:29:27.000Z",
+  "likes": 2,
+  "downloads": 2604,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "suka-se/Software_Requirement_from_Application_Marketplace_User_Review_Dataset",
+  "author": "suka-se",
+  "created": "2025-05-05T05:19:50.000Z",
+  "likes": 2,
+  "downloads": 213,
+  "tier": "medium",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "xccds/maoxuan",
+  "author": "xccds",
+  "created": "2025-05-22T23:40:10.000Z",
+  "likes": 3,
+  "downloads": 409,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ihainan/DRCD-Simplified-Chinese",
+  "author": "ihainan",
+  "created": "2025-04-01T10:48:25.000Z",
+  "likes": 2,
+  "downloads": 806,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "Boakpe/historinhas",
+  "author": "Boakpe",
+  "created": "2025-04-08T14:37:45.000Z",
+  "likes": 1,
+  "downloads": 596,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "renanserrano/yanomami",
+  "author": "renanserrano",
+  "created": "2025-03-03T09:01:19.000Z",
+  "likes": 1,
+  "downloads": 810,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "theprint/GameDev-Lite-Alpaca",
+  "author": "theprint",
+  "created": "2025-04-17T03:58:05.000Z",
+  "likes": 1,
+  "downloads": 267,
+  "tier": "medium",
+  "followers": 37,
+  "is_org": false
+ },
+ {
+  "id": "CATIE-AQ/NanoSciFact-fr",
+  "author": "CATIE-AQ",
+  "created": "2025-06-09T12:54:41.000Z",
+  "likes": 1,
+  "downloads": 463,
+  "tier": "medium",
+  "followers": 58,
+  "is_org": true
+ },
+ {
+  "id": "niobures/russian-single-speaker-speech-dataset",
+  "author": "niobures",
+  "created": "2025-06-26T17:19:11.000Z",
+  "likes": 1,
+  "downloads": 4313,
+  "tier": "medium",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "gman9a/react_frontend",
+  "author": "gman9a",
+  "created": "2025-01-21T00:26:18.000Z",
+  "likes": 2,
+  "downloads": 444,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "wish44165/StrongBaseline_YOLOv12-BoT-SORT-ReID",
+  "author": "wish44165",
+  "created": "2025-04-20T16:22:58.000Z",
+  "likes": 4,
+  "downloads": 733,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "jkazdan/qwenall_14_multiple_responses",
+  "author": "jkazdan",
+  "created": "2025-02-28T22:09:06.000Z",
+  "likes": 1,
+  "downloads": 292,
+  "tier": "medium",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "eduagarcia/multilingual_tokenizer_benchmark",
+  "author": "eduagarcia",
+  "created": "2025-05-11T18:47:43.000Z",
+  "likes": 2,
+  "downloads": 1024,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "relai-ai/django-reasoning",
+  "author": "relai-ai",
+  "created": "2025-04-21T16:51:49.000Z",
+  "likes": 1,
+  "downloads": 477,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "sionic-ai/autorag-korean",
+  "author": "sionic-ai",
+  "created": "2025-02-17T06:33:53.000Z",
+  "likes": 1,
+  "downloads": 603,
+  "tier": "medium",
+  "followers": 50,
+  "is_org": true
+ },
+ {
+  "id": "Forsack/soildata",
+  "author": "Forsack",
+  "created": "2025-06-14T15:53:37.000Z",
+  "likes": 1,
+  "downloads": 307,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "JesseFWarrenV/Yelp-Restaurants",
+  "author": "JesseFWarrenV",
+  "created": "2025-04-15T00:37:25.000Z",
+  "likes": 1,
+  "downloads": 300,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "luvGPT/CharacterStories",
+  "author": "luvGPT",
+  "created": "2025-01-28T18:44:15.000Z",
+  "likes": 4,
+  "downloads": 1471,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "teapotai/synthqa",
+  "author": "teapotai",
+  "created": "2025-03-12T22:32:19.000Z",
+  "likes": 4,
+  "downloads": 1757,
+  "tier": "medium",
+  "followers": 75,
+  "is_org": true
+ },
+ {
+  "id": "Worlthen/laser_drilling_dataset",
+  "author": "Worlthen",
+  "created": "2025-03-14T15:44:14.000Z",
+  "likes": 1,
+  "downloads": 531,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "stellalisy/MediQ_AskDocs",
+  "author": "stellalisy",
+  "created": "2025-01-24T17:22:52.000Z",
+  "likes": 3,
+  "downloads": 4036,
+  "tier": "medium",
+  "followers": 14,
+  "is_org": false
+ },
+ {
+  "id": "jonluj/secalign_claude_preference_dpo_NaiveCompletion",
+  "author": "jonluj",
+  "created": "2025-05-09T18:16:59.000Z",
+  "likes": 1,
+  "downloads": 315,
+  "tier": "medium",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "AmeliaCMU/Amelia-10",
+  "author": "AmeliaCMU",
+  "created": "2025-05-07T19:05:18.000Z",
+  "likes": 2,
+  "downloads": 14777,
+  "tier": "medium",
+  "followers": 7,
+  "is_org": true
+ },
+ {
+  "id": "chowalex/scotus_opinions",
+  "author": "chowalex",
+  "created": "2025-02-01T22:10:52.000Z",
+  "likes": 1,
+  "downloads": 926,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "omicseye/eukar_train",
+  "author": "omicseye",
+  "created": "2025-03-03T21:35:56.000Z",
+  "likes": 1,
+  "downloads": 2000,
+  "tier": "medium",
+  "followers": 8,
+  "is_org": true
+ },
+ {
+  "id": "DishitaAI/student_wellbeing_dataset",
+  "author": "DishitaAI",
+  "created": "2025-04-13T22:40:49.000Z",
+  "likes": 1,
+  "downloads": 159,
+  "tier": "medium",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Magpie-Align/Magpie-Reasoning-V2-250K-CoT-Deepseek-R1-Llama-70B",
+  "author": "Magpie-Align",
+  "created": "2025-01-25T04:54:44.000Z",
+  "likes": 110,
+  "downloads": 18943,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "oumi-ai/lmsys_chat_1m_clean_R1",
+  "author": "oumi-ai",
+  "created": "2025-02-14T16:49:46.000Z",
+  "likes": 9,
+  "downloads": 3047,
+  "tier": "high",
+  "followers": 56,
+  "is_org": true
+ },
+ {
+  "id": "Anthropic/values-in-the-wild",
+  "author": "Anthropic",
+  "created": "2025-04-10T06:04:36.000Z",
+  "likes": 166,
+  "downloads": 8591,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "FreedomIntelligence/ShareGPT-4o-Image",
+  "author": "FreedomIntelligence",
+  "created": "2025-06-16T07:53:06.000Z",
+  "likes": 102,
+  "downloads": 62289,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "deadprogram/clothes-with-class",
+  "author": "deadprogram",
+  "created": "2025-06-23T20:19:53.000Z",
+  "likes": 8,
+  "downloads": 5176,
+  "tier": "high",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "HuggingFaceH4/MATH",
+  "author": "HuggingFaceH4",
+  "created": "2025-01-23T08:52:13.000Z",
+  "likes": 10,
+  "downloads": 31964,
+  "tier": "high",
+  "followers": 1699,
+  "is_org": true
+ },
+ {
+  "id": "hienhf3979/storage",
+  "author": "hienhf3979",
+  "created": "2025-03-22T23:43:29.000Z",
+  "likes": 8,
+  "downloads": 17189,
+  "tier": "high",
+  "followers": 8,
+  "is_org": false
+ },
+ {
+  "id": "yunlong10/MMPerspective",
+  "author": "yunlong10",
+  "created": "2025-06-12T12:31:12.000Z",
+  "likes": 7,
+  "downloads": 3640,
+  "tier": "high",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "Process-Venue/Marathi_Handwritten",
+  "author": "Process-Venue",
+  "created": "2025-02-18T07:23:37.000Z",
+  "likes": 6,
+  "downloads": 1445,
+  "tier": "high",
+  "followers": 15,
+  "is_org": true
+ },
+ {
+  "id": "AudioLLMs/Multitask-National-Speech-Corpus-v1-extend",
+  "author": "AudioLLMs",
+  "created": "2025-03-18T02:19:44.000Z",
+  "likes": 5,
+  "downloads": 162357,
+  "tier": "high",
+  "followers": 44,
+  "is_org": true
+ },
+ {
+  "id": "Apollo-LMMs/TimeScope",
+  "author": "Apollo-LMMs",
+  "created": "2025-06-21T06:43:03.000Z",
+  "likes": 5,
+  "downloads": 6554,
+  "tier": "high",
+  "followers": 132,
+  "is_org": true
+ },
+ {
+  "id": "artplus/PrismLayersPlus",
+  "author": "artplus",
+  "created": "2025-06-16T06:46:59.000Z",
+  "likes": 6,
+  "downloads": 36467,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SPRINGLab/IndicTTS_Punjabi",
+  "author": "SPRINGLab",
+  "created": "2025-01-27T09:49:50.000Z",
+  "likes": 6,
+  "downloads": 2167,
+  "tier": "high",
+  "followers": 137,
+  "is_org": true
+ },
+ {
+  "id": "Voxel51/fiftyone-function-calling-14k",
+  "author": "Voxel51",
+  "created": "2025-05-15T16:59:30.000Z",
+  "likes": 10,
+  "downloads": 5890,
+  "tier": "high",
+  "followers": 167,
+  "is_org": true
+ },
+ {
+  "id": "Vikhrmodels/ToneBooks",
+  "author": "Vikhrmodels",
+  "created": "2025-05-25T10:19:05.000Z",
+  "likes": 12,
+  "downloads": 4296,
+  "tier": "high",
+  "followers": 657,
+  "is_org": true
+ },
+ {
+  "id": "baichuan-inc/OpenMM_Medical",
+  "author": "baichuan-inc",
+  "created": "2025-01-25T02:30:42.000Z",
+  "likes": 5,
+  "downloads": 2384,
+  "tier": "high",
+  "followers": 651,
+  "is_org": true
+ },
+ {
+  "id": "showlab/ShowUI-web",
+  "author": "showlab",
+  "created": "2025-01-04T01:37:58.000Z",
+  "likes": 23,
+  "downloads": 58581,
+  "tier": "high",
+  "followers": 244,
+  "is_org": true
+ },
+ {
+  "id": "zifeng-ai/LEADSInstruct",
+  "author": "zifeng-ai",
+  "created": "2025-03-07T22:10:13.000Z",
+  "likes": 5,
+  "downloads": 3932,
+  "tier": "high",
+  "followers": 10,
+  "is_org": false
+ },
+ {
+  "id": "prithivMLmods/Math-Solve",
+  "author": "prithivMLmods",
+  "created": "2025-01-17T08:17:56.000Z",
+  "likes": 16,
+  "downloads": 1608,
+  "tier": "high",
+  "followers": 6099,
+  "is_org": false
+ },
+ {
+  "id": "Tesslate/UIGEN-T2",
+  "author": "Tesslate",
+  "created": "2025-04-25T19:44:44.000Z",
+  "likes": 11,
+  "downloads": 1481,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "tencent/C3-BenchMark",
+  "author": "tencent",
+  "created": "2025-06-27T06:30:56.000Z",
+  "likes": 7,
+  "downloads": 4900,
+  "tier": "high",
+  "followers": 12705,
+  "is_org": true
+ },
+ {
+  "id": "CohereLabs/m-WildVision",
+  "author": "CohereLabs",
+  "created": "2025-03-02T21:43:23.000Z",
+  "likes": 24,
+  "downloads": 15475,
+  "tier": "high",
+  "followers": 3866,
+  "is_org": true
+ },
+ {
+  "id": "MrDragonFox/DE_Emilia_Yodas_680h",
+  "author": "MrDragonFox",
+  "created": "2025-04-13T10:25:44.000Z",
+  "likes": 12,
+  "downloads": 10639,
+  "tier": "high",
+  "followers": 190,
+  "is_org": false
+ },
+ {
+  "id": "RUC-AIBOX/STILL-3-Preview-RL-Data",
+  "author": "RUC-AIBOX",
+  "created": "2025-01-26T03:26:07.000Z",
+  "likes": 15,
+  "downloads": 7931,
+  "tier": "high",
+  "followers": 59,
+  "is_org": true
+ },
+ {
+  "id": "PrimeIntellect/NuminaMath-QwQ-CoT-5M",
+  "author": "PrimeIntellect",
+  "created": "2025-01-22T00:18:40.000Z",
+  "likes": 64,
+  "downloads": 24551,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "luchaoqi/TalkingHeadBench",
+  "author": "luchaoqi",
+  "created": "2025-05-15T04:01:47.000Z",
+  "likes": 11,
+  "downloads": 32349,
+  "tier": "high",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "Qiuchen-Wang/ViDoSeek",
+  "author": "Qiuchen-Wang",
+  "created": "2025-02-25T09:40:31.000Z",
+  "likes": 12,
+  "downloads": 6510,
+  "tier": "high",
+  "followers": 11,
+  "is_org": false
+ },
+ {
+  "id": "LLM-Digital-Twin/Twin-2K-500",
+  "author": "LLM-Digital-Twin",
+  "created": "2025-05-15T00:11:22.000Z",
+  "likes": 39,
+  "downloads": 30993,
+  "tier": "high",
+  "followers": 35,
+  "is_org": true
+ },
+ {
+  "id": "lesc-unifi/dragon",
+  "author": "lesc-unifi",
+  "created": "2025-05-14T13:02:52.000Z",
+  "likes": 9,
+  "downloads": 46866,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "TIGER-Lab/arxiv-latex-5T",
+  "author": "TIGER-Lab",
+  "created": "2025-04-05T19:21:22.000Z",
+  "likes": 5,
+  "downloads": 357324,
+  "tier": "high",
+  "followers": 593,
+  "is_org": true
+ },
+ {
+  "id": "microsoft/mediflow",
+  "author": "microsoft",
+  "created": "2025-05-27T14:37:29.000Z",
+  "likes": 54,
+  "downloads": 10580,
+  "tier": "high",
+  "followers": 22701,
+  "is_org": true
+ },
+ {
+  "id": "DataoceanAI/Chinese_Female_Speech_Synthesis_Corpus_Live_Streaming_for_Sales_with_Multi_Styles",
+  "author": "DataoceanAI",
+  "created": "2025-01-10T08:16:46.000Z",
+  "likes": 10,
+  "downloads": 349,
+  "tier": "high",
+  "followers": 64,
+  "is_org": false
+ },
+ {
+  "id": "tahrirchi/uzlib",
+  "author": "tahrirchi",
+  "created": "2025-01-23T13:27:24.000Z",
+  "likes": 11,
+  "downloads": 3035,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Trendyol/All-CVE-Chat-MultiTurn-1999-2025-Dataset",
+  "author": "Trendyol",
+  "created": "2025-06-12T12:06:10.000Z",
+  "likes": 32,
+  "downloads": 3533,
+  "tier": "high",
+  "followers": 571,
+  "is_org": true
+ },
+ {
+  "id": "PrimeIntellect/synthetic-code-understanding",
+  "author": "PrimeIntellect",
+  "created": "2025-02-05T01:36:24.000Z",
+  "likes": 20,
+  "downloads": 3585,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "axxkaya/UVT-Explanatory-based-Vision-Tasks",
+  "author": "axxkaya",
+  "created": "2025-01-30T07:28:05.000Z",
+  "likes": 45,
+  "downloads": 6422,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "harshildarji/openlegaldata",
+  "author": "harshildarji",
+  "created": "2025-03-15T10:49:38.000Z",
+  "likes": 5,
+  "downloads": 7571,
+  "tier": "high",
+  "followers": 6,
+  "is_org": false
+ },
+ {
+  "id": "junma/CVPR-BiomedSegFM",
+  "author": "junma",
+  "created": "2025-04-17T15:44:14.000Z",
+  "likes": 24,
+  "downloads": 274706,
+  "tier": "high",
+  "followers": 15,
+  "is_org": false
+ },
+ {
+  "id": "Qwen/PolyMath",
+  "author": "Qwen",
+  "created": "2025-04-25T14:37:14.000Z",
+  "likes": 48,
+  "downloads": 92975,
+  "tier": "high",
+  "followers": 111974,
+  "is_org": true
+ },
+ {
+  "id": "saberzl/SID_Set",
+  "author": "saberzl",
+  "created": "2025-03-11T20:56:03.000Z",
+  "likes": 15,
+  "downloads": 65431,
+  "tier": "high",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "microsoft/FEA-Bench",
+  "author": "microsoft",
+  "created": "2025-02-27T05:35:19.000Z",
+  "likes": 6,
+  "downloads": 7707,
+  "tier": "high",
+  "followers": 22701,
+  "is_org": true
+ },
+ {
+  "id": "zhang0jhon/Aesthetic-Train-V2",
+  "author": "zhang0jhon",
+  "created": "2025-06-03T05:23:20.000Z",
+  "likes": 13,
+  "downloads": 12549,
+  "tier": "high",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "upstage/CReSt",
+  "author": "upstage",
+  "created": "2025-05-12T02:39:29.000Z",
+  "likes": 7,
+  "downloads": 1211,
+  "tier": "high",
+  "followers": 1222,
+  "is_org": true
+ },
+ {
+  "id": "hiyam-d/PrediTree",
+  "author": "hiyam-d",
+  "created": "2025-05-13T13:14:17.000Z",
+  "likes": 10,
+  "downloads": 10155,
+  "tier": "high",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "LWHYC/PASTA-Gen-30K",
+  "author": "LWHYC",
+  "created": "2025-01-28T09:35:45.000Z",
+  "likes": 15,
+  "downloads": 70227,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ByteDance-Seed/Multi-SWE-bench",
+  "author": "ByteDance-Seed",
+  "created": "2025-03-31T12:18:57.000Z",
+  "likes": 42,
+  "downloads": 144944,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "RobotsMali/bam-asr-early",
+  "author": "RobotsMali",
+  "created": "2025-01-10T12:39:25.000Z",
+  "likes": 7,
+  "downloads": 10382,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "gair-prox/DCLM-pro",
+  "author": "gair-prox",
+  "created": "2025-02-14T09:30:19.000Z",
+  "likes": 13,
+  "downloads": 94383,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "ZeroAgency/ru-tasks-conversation",
+  "author": "ZeroAgency",
+  "created": "2025-03-18T18:02:14.000Z",
+  "likes": 7,
+  "downloads": 807,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "JosephLee/korean-socratic-qa",
+  "author": "JosephLee",
+  "created": "2025-04-18T07:49:33.000Z",
+  "likes": 9,
+  "downloads": 1139,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "zhang0jhon/Aesthetic-4K",
+  "author": "zhang0jhon",
+  "created": "2025-02-16T01:47:04.000Z",
+  "likes": 65,
+  "downloads": 319173,
+  "tier": "high",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "zerofata/Roleplay-Anime-Characters",
+  "author": "zerofata",
+  "created": "2025-05-24T23:17:22.000Z",
+  "likes": 32,
+  "downloads": 3968,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "mangopy/ToolRet-Queries",
+  "author": "mangopy",
+  "created": "2025-02-25T09:47:21.000Z",
+  "likes": 7,
+  "downloads": 38654,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "ituperceptron/turkish-math-186k",
+  "author": "ituperceptron",
+  "created": "2025-05-10T01:27:25.000Z",
+  "likes": 19,
+  "downloads": 1799,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "LogicStar/BaxBench",
+  "author": "LogicStar",
+  "created": "2025-02-18T09:36:02.000Z",
+  "likes": 5,
+  "downloads": 2610,
+  "tier": "high",
+  "followers": 22,
+  "is_org": true
+ },
+ {
+  "id": "mfielding92/claude-3.7-sonnet-reasoning",
+  "author": "mfielding92",
+  "created": "2025-03-10T00:18:44.000Z",
+  "likes": 36,
+  "downloads": 4460,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "common-pile/arxiv_papers_filtered",
+  "author": "common-pile",
+  "created": "2025-05-23T05:45:51.000Z",
+  "likes": 14,
+  "downloads": 21411,
+  "tier": "high",
+  "followers": 322,
+  "is_org": true
+ },
+ {
+  "id": "ntnu-arl/underwater-datasets",
+  "author": "ntnu-arl",
+  "created": "2025-04-26T21:06:02.000Z",
+  "likes": 6,
+  "downloads": 5085,
+  "tier": "high",
+  "followers": 14,
+  "is_org": true
+ },
+ {
+  "id": "Treza12/Dataset_Optical_Fiber2",
+  "author": "Treza12",
+  "created": "2025-01-26T15:23:58.000Z",
+  "likes": 5,
+  "downloads": 527,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "ali-vilab/VACE-Benchmark",
+  "author": "ali-vilab",
+  "created": "2025-04-01T14:21:49.000Z",
+  "likes": 21,
+  "downloads": 37313,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "DataoceanAI/Thai_Speech_Recognition_Corpus",
+  "author": "DataoceanAI",
+  "created": "2025-01-10T08:04:58.000Z",
+  "likes": 9,
+  "downloads": 297,
+  "tier": "high",
+  "followers": 64,
+  "is_org": false
+ },
+ {
+  "id": "OpenEvals/SimpleQA",
+  "author": "OpenEvals",
+  "created": "2025-01-28T13:55:50.000Z",
+  "likes": 6,
+  "downloads": 15759,
+  "tier": "high",
+  "followers": 197,
+  "is_org": true
+ },
+ {
+  "id": "teleren/ui-navigation-corpus",
+  "author": "teleren",
+  "created": "2025-02-02T11:49:20.000Z",
+  "likes": 15,
+  "downloads": 6980,
+  "tier": "high",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "6DammK9/danbooru2024-latents-sdxl-1ktar",
+  "author": "6DammK9",
+  "created": "2025-01-18T03:50:54.000Z",
+  "likes": 7,
+  "downloads": 2205,
+  "tier": "high",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "AI-MO/CombiBench",
+  "author": "AI-MO",
+  "created": "2025-03-09T08:33:16.000Z",
+  "likes": 12,
+  "downloads": 4319,
+  "tier": "high",
+  "followers": 530,
+  "is_org": true
+ },
+ {
+  "id": "multimodal-reasoning-lab/Multi-Hop-Objects-Counting",
+  "author": "multimodal-reasoning-lab",
+  "created": "2025-06-29T03:50:55.000Z",
+  "likes": 9,
+  "downloads": 7309,
+  "tier": "high",
+  "followers": 57,
+  "is_org": true
+ },
+ {
+  "id": "CADCODER/DeepCAD-CQ-Vision-Paired",
+  "author": "CADCODER",
+  "created": "2025-06-05T19:15:50.000Z",
+  "likes": 9,
+  "downloads": 3295,
+  "tier": "high",
+  "followers": 47,
+  "is_org": true
+ },
+ {
+  "id": "afdsafas/EEE-Bench",
+  "author": "afdsafas",
+  "created": "2025-06-23T04:36:51.000Z",
+  "likes": 5,
+  "downloads": 3567,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "GAIR/LIMR",
+  "author": "GAIR",
+  "created": "2025-02-16T13:39:18.000Z",
+  "likes": 33,
+  "downloads": 4525,
+  "tier": "high",
+  "followers": 437,
+  "is_org": true
+ },
+ {
+  "id": "Rapidata/Recraft-V2_t2i_human_preference",
+  "author": "Rapidata",
+  "created": "2025-03-26T15:40:57.000Z",
+  "likes": 9,
+  "downloads": 7121,
+  "tier": "high",
+  "followers": 147,
+  "is_org": true
+ },
+ {
+  "id": "kurry/sp500_earnings_transcripts",
+  "author": "kurry",
+  "created": "2025-05-19T01:14:14.000Z",
+  "likes": 22,
+  "downloads": 10735,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "oscar128372/chess_spatial_reasoning_400kv1",
+  "author": "oscar128372",
+  "created": "2025-03-07T07:23:25.000Z",
+  "likes": 5,
+  "downloads": 648,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "lerobot/libero_goal_image",
+  "author": "lerobot",
+  "created": "2025-02-27T16:54:40.000Z",
+  "likes": 5,
+  "downloads": 14292,
+  "tier": "high",
+  "followers": 5710,
+  "is_org": true
+ },
+ {
+  "id": "amitayusht/clever",
+  "author": "amitayusht",
+  "created": "2025-05-16T02:39:24.000Z",
+  "likes": 5,
+  "downloads": 1127,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "boapro/PentestingCommandLogic",
+  "author": "boapro",
+  "created": "2025-05-21T18:26:46.000Z",
+  "likes": 7,
+  "downloads": 673,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "agibot-world/GenieSimAssets",
+  "author": "agibot-world",
+  "created": "2025-04-21T11:18:48.000Z",
+  "likes": 31,
+  "downloads": 109782,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "geronimobasso/drone-audio-detection-samples",
+  "author": "geronimobasso",
+  "created": "2025-03-08T22:40:40.000Z",
+  "likes": 41,
+  "downloads": 30238,
+  "tier": "high",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "open-r1/OpenR1-Math-Raw",
+  "author": "open-r1",
+  "created": "2025-02-12T11:56:48.000Z",
+  "likes": 77,
+  "downloads": 37502,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "EleutherAI/fineweb-edu-dedup-10b",
+  "author": "EleutherAI",
+  "created": "2025-01-21T22:35:08.000Z",
+  "likes": 6,
+  "downloads": 75447,
+  "tier": "high",
+  "followers": 1510,
+  "is_org": true
+ },
+ {
+  "id": "QuixiAI/dolphin-distill",
+  "author": "QuixiAI",
+  "created": "2025-06-15T22:33:29.000Z",
+  "likes": 20,
+  "downloads": 11325,
+  "tier": "high",
+  "followers": 2507,
+  "is_org": true
+ },
+ {
+  "id": "CharlieDreemur/OpenManus-RL",
+  "author": "CharlieDreemur",
+  "created": "2025-03-10T00:17:54.000Z",
+  "likes": 88,
+  "downloads": 6086,
+  "tier": "high",
+  "followers": 13,
+  "is_org": false
+ },
+ {
+  "id": "maya-research/IndicVault",
+  "author": "maya-research",
+  "created": "2025-05-06T07:49:27.000Z",
+  "likes": 72,
+  "downloads": 3320,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "marcodsn/academic-chains",
+  "author": "marcodsn",
+  "created": "2025-04-20T15:57:10.000Z",
+  "likes": 33,
+  "downloads": 6150,
+  "tier": "high",
+  "followers": 18,
+  "is_org": false
+ },
+ {
+  "id": "jablonkagroup/ChemBench",
+  "author": "jablonkagroup",
+  "created": "2025-01-14T21:05:40.000Z",
+  "likes": 26,
+  "downloads": 60816,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "simplescaling/s1K",
+  "author": "simplescaling",
+  "created": "2025-01-14T07:54:43.000Z",
+  "likes": 248,
+  "downloads": 71470,
+  "tier": "high",
+  "followers": 320,
+  "is_org": true
+ },
+ {
+  "id": "TencentARC/VPBench",
+  "author": "TencentARC",
+  "created": "2025-02-16T13:00:48.000Z",
+  "likes": 11,
+  "downloads": 9404,
+  "tier": "high",
+  "followers": 1114,
+  "is_org": true
+ },
+ {
+  "id": "lightonai/ms-marco-en-bge-gemma",
+  "author": "lightonai",
+  "created": "2025-04-25T12:28:31.000Z",
+  "likes": 13,
+  "downloads": 7986,
+  "tier": "high",
+  "followers": 875,
+  "is_org": true
+ },
+ {
+  "id": "unsloth/OpenMathReasoning-mini",
+  "author": "unsloth",
+  "created": "2025-05-02T12:48:53.000Z",
+  "likes": 67,
+  "downloads": 92740,
+  "tier": "high",
+  "followers": 38335,
+  "is_org": true
+ },
+ {
+  "id": "MohammadGholizadeh/youtube-farsi",
+  "author": "MohammadGholizadeh",
+  "created": "2025-06-03T12:16:34.000Z",
+  "likes": 7,
+  "downloads": 6881,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "WYRipple/S1-Bench",
+  "author": "WYRipple",
+  "created": "2025-04-13T11:19:04.000Z",
+  "likes": 5,
+  "downloads": 984,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Tongyi-ConvAI/SDPO",
+  "author": "Tongyi-ConvAI",
+  "created": "2025-01-03T09:59:43.000Z",
+  "likes": 5,
+  "downloads": 2001,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "allenai/PRISM",
+  "author": "allenai",
+  "created": "2025-06-02T18:15:50.000Z",
+  "likes": 5,
+  "downloads": 7854,
+  "tier": "high",
+  "followers": 6876,
+  "is_org": true
+ },
+ {
+  "id": "XRPEASY/TexttoVideo",
+  "author": "XRPEASY",
+  "created": "2025-01-27T17:45:55.000Z",
+  "likes": 7,
+  "downloads": 327,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "kellycyy/AIRiskDilemmas",
+  "author": "kellycyy",
+  "created": "2025-05-09T16:37:01.000Z",
+  "likes": 6,
+  "downloads": 4638,
+  "tier": "high",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "Cierra0506/MM-K12",
+  "author": "Cierra0506",
+  "created": "2025-05-26T15:21:56.000Z",
+  "likes": 5,
+  "downloads": 1546,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "IFM/MegaMath",
+  "author": "IFM",
+  "created": "2025-03-30T20:15:00.000Z",
+  "likes": 143,
+  "downloads": 1092625,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "justpluso/turn_detection_3k_zh",
+  "author": "justpluso",
+  "created": "2025-05-09T10:23:59.000Z",
+  "likes": 5,
+  "downloads": 676,
+  "tier": "high",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "openai/mrcr",
+  "author": "openai",
+  "created": "2025-04-11T23:55:25.000Z",
+  "likes": 233,
+  "downloads": 90962,
+  "tier": "high",
+  "followers": 43505,
+  "is_org": true
+ },
+ {
+  "id": "opencompass/AIME2025",
+  "author": "opencompass",
+  "created": "2025-02-08T09:43:34.000Z",
+  "likes": 57,
+  "downloads": 205532,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "MRAMG/MRAMG-Bench",
+  "author": "MRAMG",
+  "created": "2025-01-29T12:34:30.000Z",
+  "likes": 6,
+  "downloads": 5798,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "SWE-bench/SWE-bench_Multimodal",
+  "author": "SWE-bench",
+  "created": "2025-04-29T20:25:27.000Z",
+  "likes": 13,
+  "downloads": 61298,
+  "tier": "high",
+  "followers": 321,
+  "is_org": true
+ },
+ {
+  "id": "ProCreations/quantum-randomness",
+  "author": "ProCreations",
+  "created": "2025-05-11T21:28:01.000Z",
+  "likes": 5,
+  "downloads": 455,
+  "tier": "high",
+  "followers": 375,
+  "is_org": false
+ },
+ {
+  "id": "ByteDance-Seed/mga-fineweb-edu",
+  "author": "ByteDance-Seed",
+  "created": "2025-02-06T15:22:30.000Z",
+  "likes": 44,
+  "downloads": 44782,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "open-r1/ioi-2024-model-solutions",
+  "author": "open-r1",
+  "created": "2025-03-10T15:21:15.000Z",
+  "likes": 6,
+  "downloads": 14140,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "lerobot/libero_10_image",
+  "author": "lerobot",
+  "created": "2025-02-27T16:11:30.000Z",
+  "likes": 6,
+  "downloads": 27754,
+  "tier": "high",
+  "followers": 5710,
+  "is_org": true
+ },
+ {
+  "id": "yongyizang/RawStems",
+  "author": "yongyizang",
+  "created": "2025-04-21T02:51:23.000Z",
+  "likes": 7,
+  "downloads": 11516,
+  "tier": "high",
+  "followers": 12,
+  "is_org": false
+ },
+ {
+  "id": "allenai/llama-3.1-tulu-3-405b-preference-mixture",
+  "author": "allenai",
+  "created": "2025-01-28T23:51:39.000Z",
+  "likes": 7,
+  "downloads": 3247,
+  "tier": "high",
+  "followers": 6876,
+  "is_org": true
+ },
+ {
+  "id": "ProCreations/Mistake-To-Meaning",
+  "author": "ProCreations",
+  "created": "2025-04-24T06:53:24.000Z",
+  "likes": 5,
+  "downloads": 1045,
+  "tier": "high",
+  "followers": 375,
+  "is_org": false
+ },
+ {
+  "id": "HuggingFaceFW/clean-wikipedia",
+  "author": "HuggingFaceFW",
+  "created": "2025-03-19T11:06:24.000Z",
+  "likes": 25,
+  "downloads": 60120,
+  "tier": "high",
+  "followers": 1894,
+  "is_org": true
+ },
+ {
+  "id": "convergence-ai/WebVoyager2025Valid",
+  "author": "convergence-ai",
+  "created": "2025-02-17T14:31:57.000Z",
+  "likes": 7,
+  "downloads": 1405,
+  "tier": "high",
+  "followers": 94,
+  "is_org": true
+ },
+ {
+  "id": "galileo-ai/agent-leaderboard",
+  "author": "galileo-ai",
+  "created": "2025-02-11T14:04:56.000Z",
+  "likes": 33,
+  "downloads": 5066,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "JohnVans123/ProjectManagement",
+  "author": "JohnVans123",
+  "created": "2025-01-06T00:56:39.000Z",
+  "likes": 5,
+  "downloads": 1663,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Guilherme34/Samantha-newdataset-morelarge",
+  "author": "Guilherme34",
+  "created": "2025-01-04T18:23:03.000Z",
+  "likes": 5,
+  "downloads": 460,
+  "tier": "high",
+  "followers": 128,
+  "is_org": false
+ },
+ {
+  "id": "SoufianeDahimi/Tamazight-ASR-Dataset-v2",
+  "author": "SoufianeDahimi",
+  "created": "2025-01-25T18:56:43.000Z",
+  "likes": 8,
+  "downloads": 3828,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Magpie-Align/Magpie-Llama-3.3-Pro-1M-v0.1",
+  "author": "Magpie-Align",
+  "created": "2025-01-02T06:08:23.000Z",
+  "likes": 5,
+  "downloads": 6199,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "facebook/collaborative_agent_bench",
+  "author": "facebook",
+  "created": "2025-02-11T21:36:02.000Z",
+  "likes": 61,
+  "downloads": 2436,
+  "tier": "high",
+  "followers": 15597,
+  "is_org": true
+ },
+ {
+  "id": "mshojaei77/PersianCorpus_merged",
+  "author": "mshojaei77",
+  "created": "2025-03-02T22:56:38.000Z",
+  "likes": 7,
+  "downloads": 4573,
+  "tier": "high",
+  "followers": 103,
+  "is_org": false
+ },
+ {
+  "id": "AIML-TUDA/SLR-Bench",
+  "author": "AIML-TUDA",
+  "created": "2025-06-19T05:56:24.000Z",
+  "likes": 5,
+  "downloads": 14476,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Techmaestro369/indian-legal-texts-finetuning",
+  "author": "Techmaestro369",
+  "created": "2025-03-12T12:35:34.000Z",
+  "likes": 7,
+  "downloads": 1414,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "avery00/MomentSeeker",
+  "author": "avery00",
+  "created": "2025-03-07T08:35:58.000Z",
+  "likes": 8,
+  "downloads": 238817,
+  "tier": "high",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "allenai/olmOCR-mix-0225",
+  "author": "allenai",
+  "created": "2025-02-10T20:41:50.000Z",
+  "likes": 176,
+  "downloads": 27758,
+  "tier": "high",
+  "followers": 6876,
+  "is_org": true
+ },
+ {
+  "id": "agents-course/unit3-invitees",
+  "author": "agents-course",
+  "created": "2025-03-19T10:07:48.000Z",
+  "likes": 22,
+  "downloads": 33535,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "groundingauburn/HoT",
+  "author": "groundingauburn",
+  "created": "2025-03-13T15:16:00.000Z",
+  "likes": 6,
+  "downloads": 1961,
+  "tier": "high",
+  "followers": 9,
+  "is_org": true
+ },
+ {
+  "id": "nvidia/hifitts-2",
+  "author": "nvidia",
+  "created": "2025-05-12T23:54:45.000Z",
+  "likes": 35,
+  "downloads": 10611,
+  "tier": "high",
+  "followers": 72361,
+  "is_org": true
+ },
+ {
+  "id": "LanguageBind/UniWorld-V1",
+  "author": "LanguageBind",
+  "created": "2025-05-21T06:09:37.000Z",
+  "likes": 25,
+  "downloads": 104665,
+  "tier": "high",
+  "followers": 212,
+  "is_org": false
+ },
+ {
+  "id": "Tharyck/multispeaker-tts-ptbr",
+  "author": "Tharyck",
+  "created": "2025-01-26T00:04:01.000Z",
+  "likes": 7,
+  "downloads": 2607,
+  "tier": "high",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "LeMaterial/LeMat-Traj",
+  "author": "LeMaterial",
+  "created": "2025-04-10T07:13:58.000Z",
+  "likes": 7,
+  "downloads": 22631,
+  "tier": "high",
+  "followers": 118,
+  "is_org": true
+ },
+ {
+  "id": "TIGER-Lab/AceCodePair-300K",
+  "author": "TIGER-Lab",
+  "created": "2025-02-03T23:29:24.000Z",
+  "likes": 5,
+  "downloads": 3940,
+  "tier": "high",
+  "followers": 593,
+  "is_org": true
+ },
+ {
+  "id": "JustinTX/WildSci",
+  "author": "JustinTX",
+  "created": "2025-04-30T07:02:43.000Z",
+  "likes": 14,
+  "downloads": 2096,
+  "tier": "high",
+  "followers": 4,
+  "is_org": false
+ },
+ {
+  "id": "AIxBlock/stimulated-chatbot-conversations-PII-detection-7languages",
+  "author": "AIxBlock",
+  "created": "2025-05-08T21:54:46.000Z",
+  "likes": 6,
+  "downloads": 501,
+  "tier": "high",
+  "followers": 296,
+  "is_org": false
+ },
+ {
+  "id": "microsoft/Do-You-See-Me",
+  "author": "microsoft",
+  "created": "2025-06-24T11:17:32.000Z",
+  "likes": 10,
+  "downloads": 11966,
+  "tier": "high",
+  "followers": 22701,
+  "is_org": true
+ },
+ {
+  "id": "UCSC-VLAA/STAR-1",
+  "author": "UCSC-VLAA",
+  "created": "2025-04-03T01:08:23.000Z",
+  "likes": 12,
+  "downloads": 4952,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "HelpingAI/Dhanishtha-2.0-SUPERTHINKER",
+  "author": "HelpingAI",
+  "created": "2025-06-08T13:34:32.000Z",
+  "likes": 24,
+  "downloads": 1959,
+  "tier": "high",
+  "followers": 154,
+  "is_org": true
+ },
+ {
+  "id": "open-thoughts/OpenThoughts3-1.2M",
+  "author": "open-thoughts",
+  "created": "2025-05-28T21:51:11.000Z",
+  "likes": 281,
+  "downloads": 288260,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "yavuzyilmaz/cosmetic-ingredients",
+  "author": "yavuzyilmaz",
+  "created": "2025-03-07T11:10:56.000Z",
+  "likes": 12,
+  "downloads": 1237,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "hpprc/jawiki-bullet-points",
+  "author": "hpprc",
+  "created": "2025-02-12T02:10:19.000Z",
+  "likes": 5,
+  "downloads": 3114,
+  "tier": "high",
+  "followers": 49,
+  "is_org": false
+ },
+ {
+  "id": "HuanjinYao/Mulberry-SFT",
+  "author": "HuanjinYao",
+  "created": "2025-01-19T08:13:30.000Z",
+  "likes": 11,
+  "downloads": 10961,
+  "tier": "high",
+  "followers": 9,
+  "is_org": false
+ },
+ {
+  "id": "Aurora-Gem/OptMATH-Train",
+  "author": "Aurora-Gem",
+  "created": "2025-02-21T02:39:18.000Z",
+  "likes": 9,
+  "downloads": 4090,
+  "tier": "high",
+  "followers": 7,
+  "is_org": false
+ },
+ {
+  "id": "m-a-p/COIG-P-CRM",
+  "author": "m-a-p",
+  "created": "2025-04-02T23:36:09.000Z",
+  "likes": 5,
+  "downloads": 1213,
+  "tier": "high",
+  "followers": 1595,
+  "is_org": true
+ },
+ {
+  "id": "hfmlsoc/hub_weekly_snapshots",
+  "author": "hfmlsoc",
+  "created": "2025-05-06T14:48:06.000Z",
+  "likes": 12,
+  "downloads": 36414,
+  "tier": "high",
+  "followers": 45,
+  "is_org": true
+ },
+ {
+  "id": "henryhe0123/PC-Agent-E",
+  "author": "henryhe0123",
+  "created": "2025-05-20T04:45:09.000Z",
+  "likes": 6,
+  "downloads": 2358,
+  "tier": "high",
+  "followers": 5,
+  "is_org": false
+ },
+ {
+  "id": "Karamjit99/Hallucination-Detection",
+  "author": "Karamjit99",
+  "created": "2025-04-17T13:17:57.000Z",
+  "likes": 7,
+  "downloads": 460,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "oumi-ai/MetaMathQA-R1",
+  "author": "oumi-ai",
+  "created": "2025-01-28T18:38:16.000Z",
+  "likes": 7,
+  "downloads": 9265,
+  "tier": "high",
+  "followers": 56,
+  "is_org": true
+ },
+ {
+  "id": "TIGER-Lab/AceCode-87K",
+  "author": "TIGER-Lab",
+  "created": "2025-02-03T23:27:35.000Z",
+  "likes": 57,
+  "downloads": 59383,
+  "tier": "high",
+  "followers": 593,
+  "is_org": true
+ },
+ {
+  "id": "paulhoehn/Sen12Landslides",
+  "author": "paulhoehn",
+  "created": "2025-05-13T13:51:47.000Z",
+  "likes": 16,
+  "downloads": 19480,
+  "tier": "high",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "open-r1/DAPO-Math-17k-Processed",
+  "author": "open-r1",
+  "created": "2025-04-10T08:38:05.000Z",
+  "likes": 89,
+  "downloads": 159529,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "tonyFang04/8-calves",
+  "author": "tonyFang04",
+  "created": "2025-04-01T10:43:30.000Z",
+  "likes": 5,
+  "downloads": 6028,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "TurkuNLP/finerweb-10bt",
+  "author": "TurkuNLP",
+  "created": "2025-01-13T07:30:48.000Z",
+  "likes": 8,
+  "downloads": 8011,
+  "tier": "high",
+  "followers": 119,
+  "is_org": true
+ },
+ {
+  "id": "stepfun-ai/GEdit-Bench",
+  "author": "stepfun-ai",
+  "created": "2025-04-24T12:31:30.000Z",
+  "likes": 32,
+  "downloads": 55975,
+  "tier": "high",
+  "followers": 3283,
+  "is_org": true
+ },
+ {
+  "id": "sankalpsinha77/MARVEL-40M",
+  "author": "sankalpsinha77",
+  "created": "2025-03-26T15:09:07.000Z",
+  "likes": 6,
+  "downloads": 1357,
+  "tier": "high",
+  "followers": 3,
+  "is_org": false
+ },
+ {
+  "id": "Rapidata/sora-video-generation-time-flow",
+  "author": "Rapidata",
+  "created": "2025-02-04T11:31:45.000Z",
+  "likes": 24,
+  "downloads": 943,
+  "tier": "high",
+  "followers": 147,
+  "is_org": true
+ },
+ {
+  "id": "ZennyKenny/tron-dataset-v.1.0",
+  "author": "ZennyKenny",
+  "created": "2025-04-16T14:08:50.000Z",
+  "likes": 6,
+  "downloads": 1487,
+  "tier": "high",
+  "followers": 133,
+  "is_org": false
+ },
+ {
+  "id": "anvo25/vlms-are-biased",
+  "author": "anvo25",
+  "created": "2025-05-02T05:59:53.000Z",
+  "likes": 30,
+  "downloads": 21869,
+  "tier": "high",
+  "followers": 2,
+  "is_org": false
+ },
+ {
+  "id": "exp-models/dolphin-r1-deepseek-toolcalls",
+  "author": "exp-models",
+  "created": "2025-02-10T13:47:53.000Z",
+  "likes": 5,
+  "downloads": 896,
+  "tier": "high",
+  "followers": 14,
+  "is_org": true
+ },
+ {
+  "id": "agentlans/combined-roleplay",
+  "author": "agentlans",
+  "created": "2025-02-06T22:37:03.000Z",
+  "likes": 24,
+  "downloads": 9933,
+  "tier": "high",
+  "followers": 70,
+  "is_org": false
+ },
+ {
+  "id": "ngxson/MiniThinky-dataset",
+  "author": "ngxson",
+  "created": "2025-01-06T10:38:39.000Z",
+  "likes": 21,
+  "downloads": 2274,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "starvector/svg-stack",
+  "author": "starvector",
+  "created": "2025-01-10T11:54:17.000Z",
+  "likes": 36,
+  "downloads": 19145,
+  "tier": "high",
+  "followers": 296,
+  "is_org": true
+ },
+ {
+  "id": "Raphael172/NSFW_Multilanguage_Chat_Dataset",
+  "author": "Raphael172",
+  "created": "2025-04-10T09:58:48.000Z",
+  "likes": 5,
+  "downloads": 558,
+  "tier": "high",
+  "followers": 0,
+  "is_org": false
+ },
+ {
+  "id": "Salesforce/FinEval",
+  "author": "Salesforce",
+  "created": "2025-01-27T04:34:00.000Z",
+  "likes": 10,
+  "downloads": 7182,
+  "tier": "high",
+  "followers": 2573,
+  "is_org": true
+ },
+ {
+  "id": "Mxode/Chinese-Psychology-Books",
+  "author": "Mxode",
+  "created": "2025-04-30T16:21:53.000Z",
+  "likes": 9,
+  "downloads": 3366,
+  "tier": "high",
+  "followers": 47,
+  "is_org": false
+ },
+ {
+  "id": "Geralt-Targaryen/NSFW-zh",
+  "author": "Geralt-Targaryen",
+  "created": "2025-03-22T07:07:31.000Z",
+  "likes": 5,
+  "downloads": 379,
+  "tier": "high",
+  "followers": 15,
+  "is_org": false
+ },
+ {
+  "id": "aisheets/vibench",
+  "author": "aisheets",
+  "created": "2025-04-10T08:27:35.000Z",
+  "likes": 8,
+  "downloads": 570,
+  "tier": "high",
+  "followers": 251,
+  "is_org": true
+ },
+ {
+  "id": "miaojiemiao/Anime-2026",
+  "author": "miaojiemiao",
+  "created": "2025-06-17T12:37:34.000Z",
+  "likes": 12,
+  "downloads": 9313,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ },
+ {
+  "id": "OmniAICreator/ASMR-Archive-Processed",
+  "author": "OmniAICreator",
+  "created": "2025-06-21T13:48:11.000Z",
+  "likes": 98,
+  "downloads": 447219,
+  "tier": "high",
+  "followers": 74,
+  "is_org": false
+ },
+ {
+  "id": "lmarena-ai/search-arena-v1-7k",
+  "author": "lmarena-ai",
+  "created": "2025-04-14T06:28:29.000Z",
+  "likes": 28,
+  "downloads": 22915,
+  "tier": "high",
+  "followers": 752,
+  "is_org": true
+ },
+ {
+  "id": "inclusionAI/Ring-lite-sft-data",
+  "author": "inclusionAI",
+  "created": "2025-06-17T09:31:11.000Z",
+  "likes": 14,
+  "downloads": 7117,
+  "tier": "high",
+  "followers": 3344,
+  "is_org": true
+ },
+ {
+  "id": "sophiaa/Open-VFX",
+  "author": "sophiaa",
+  "created": "2025-02-28T14:33:15.000Z",
+  "likes": 6,
+  "downloads": 7168,
+  "tier": "high",
+  "followers": 1,
+  "is_org": false
+ }
+]
