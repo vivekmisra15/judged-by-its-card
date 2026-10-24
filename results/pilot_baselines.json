@@ -1,0 +1,114 @@
+{
+ "n": 501,
+ "chance_accuracy": 0.3333333333333333,
+ "methods": {
+  "fame only": {
+   "accuracy": 0.41998019801980196,
+   "accuracy_sd": 0.03678106817082245,
+   "macro_f1": 0.3804340942422161,
+   "confusion_rows_true_cols_pred": [
+    [
+     110.4,
+     25.4,
+     31.2
+    ],
+    [
+     97.8,
+     16.8,
+     52.4
+    ],
+    [
+     66.6,
+     17.2,
+     83.2
+    ]
+   ]
+  },
+  "checklist only": {
+   "accuracy": 0.5169227722772277,
+   "accuracy_sd": 0.038793114476807666,
+   "macro_f1": 0.4905107320688867,
+   "confusion_rows_true_cols_pred": [
+    [
+     126.0,
+     20.0,
+     21.0
+    ],
+    [
+     70.0,
+     38.0,
+     59.0
+    ],
+    [
+     42.0,
+     30.0,
+     95.0
+    ]
+   ]
+  },
+  "card features (no fame)": {
+   "accuracy": 0.4889980198019802,
+   "accuracy_sd": 0.04481638580282666,
+   "macro_f1": 0.4713090588856235,
+   "confusion_rows_true_cols_pred": [
+    [
+     109.8,
+     40.0,
+     17.2
+    ],
+    [
+     59.8,
+     43.0,
+     64.2
+    ],
+    [
+     40.0,
+     34.8,
+     92.2
+    ]
+   ]
+  },
+  "card features + fame": {
+   "accuracy": 0.5401425742574257,
+   "accuracy_sd": 0.0422781976840525,
+   "macro_f1": 0.5192677712165059,
+   "confusion_rows_true_cols_pred": [
+    [
+     131.4,
+     25.4,
+     10.2
+    ],
+    [
+     69.6,
+     46.0,
+     51.4
+    ],
+    [
+     32.2,
+     41.6,
+     93.2
+    ]
+   ]
+  }
+ },
+ "by_tier": {
+  "low": {
+   "empty_card_%": 19.2,
+   "mean_checklist": 0.47,
+   "mean_followers": 18.7,
+   "median_words": 0
+  },
+  "medium": {
+   "empty_card_%": 19.8,
+   "mean_checklist": 1.41,
+   "mean_followers": 94.6,
+   "median_words": 0
+  },
+  "high": {
+   "empty_card_%": 7.2,
+   "mean_checklist": 2.2,
+   "mean_followers": 2620.5,
+   "median_words": 206
+  }
+ }
+}
