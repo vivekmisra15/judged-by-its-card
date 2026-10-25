@@ -20,7 +20,7 @@ Vivek works in AI transformation strategy at a bank, with a background in data c
 ## Safety rules
 
 - **API keys:** never ask for a key in chat, print it, or write it into code, docs or commits. Vivek puts `TYPESAFE_API_KEY=...` in the git-ignored `.env` file himself. Scripts read it from the environment or `.env`.
-- **Do not commit or push** unless asked. The repository is local only for now.
+- **Do not commit or push** unless asked. The repository is public on GitHub (github.com/vivekmisra15/judged-by-its-card); Vivek confirmed on 26 Oct 2026 that he is happy for it to be public. Every push publishes, so still confirm before pushing.
 - **Do not commit** `data/cards/`, `data/*.jsonl` or `.env` (already in `.gitignore`). Raw card text stays out of Git until Hugging Face's reuse terms are checked.
 - Run `--dry-run` or `--limit` before any paid API run, and say what it will cost.
 

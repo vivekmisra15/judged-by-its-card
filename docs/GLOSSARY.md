@@ -16,7 +16,7 @@
 - **Pre-registration**: writing down the plan and what would prove it wrong before seeing results.
 - **Stratified sample**: picking equal numbers from each group instead of purely at random.
 - **Virtual environment (.venv)**: a private folder of installed tools so this project does not disturb the rest of the Mac.
-- **Git / repository**: a version history of the project's files. This project's repository is local only; nothing has been uploaded.
+- **Git / repository**: a version history of the project's files. This project's repository is public on GitHub, so anything pushed there can be seen by anyone.
 - **Base rate**: how common each outcome is in the real world (here about 90% of new datasets get no likes).
 - **Rebalancing**: adjusting a model's probabilities to remove its built-in lean towards the common outcome, so every tier starts equal.
 - **AUC**: a ranking score. Pick one positive case and one negative case at random; AUC is how often the method scores the positive one higher (50% chance, 100% perfect).
