@@ -49,6 +49,8 @@ Jev answered all 501 cards (one version throughout: `jev-1.13.0`; no failures; c
 | 0.7 | 67% | 45.6% |
 | 0.8 | 52% | 46.9% |
 
+**Why so low?** See `JEV_EXPLAINED.md` (exploratory, not a finding). The main suspect: Jev leans towards the real-world rate, where about 90% of datasets get no likes, but our sample is one-third per tier. Removing that lean lifts it to 47.3%, still below the regression.
+
 ## Our pre-registered hypotheses, so far
 - **H1 "fame alone beats the checklist": refuted.** The checklist was 9.7 points better than fame.
 - **H2 "the checklist adds little once fame is known": refuted.** Adding card features to fame improved accuracy by 12 points (42.0 to 54.0).

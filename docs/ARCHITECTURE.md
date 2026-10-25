@@ -44,6 +44,7 @@ We never ask a person to judge anything. Instead we use **what actually happened
 | `src/baselines.py` | Step 4a. Runs the three simple methods and prints how often each guesses the right tier. | The control group |
 | `src/run_jev.py` | Step 4b. Sends each card to Jev and saves the answers in `results/jev_raw.jsonl`. Can be stopped and restarted without paying twice. | The call to an outside expert |
 | `src/score_jev.py` | Step 5 for Jev: accuracy, confusion table, "answer only when confident" view, calibration. | The marking |
+| `src/explore_jev.py` | Exploratory, after the fact: why Jev scored low (real-world lean, ranking, what it reacts to). Free; calls no API. Explained in `docs/JEV_EXPLAINED.md`. | The post-mortem |
 | `results/` | Outputs. `pilot_baselines.json` (baseline scores) and `jev_raw.jsonl` (Jev's answer for each dataset; no card text). | The results folder |
 | `docs/` | These explanatory documents. | The lab notebook |
 
@@ -62,5 +63,5 @@ Neither tool refuses to answer on its own in the way a person would. Each return
 
 ## Where the work runs
 - **On your Mac:** collecting data, building the sample, features, baselines, scoring. All free, all quick.
-- **On Jev's servers:** only the card text and our question are sent over the internet. The estimate was about 270,000 tokens (small chunks of text); the real run used about 459,000 (Jev counts its own instructions too): roughly **two cents**.
+- **On Jev's servers:** only the card text and our question are sent over the internet. The estimate was about 270,000 tokens (small chunks of text); the real run used about 459,000 (not explained by TypeSafe's docs; probably hidden instructions Jev adds, or our rough estimate rule): roughly **two cents**.
 - **On Kaggle/Colab (later):** training VEGA ML's small add-on needs a graphics chip your Mac does not have. These services provide one free.

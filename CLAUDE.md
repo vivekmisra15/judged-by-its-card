@@ -39,7 +39,7 @@ Done:
 - Feasibility check (Hugging Face API, VEGA ML, Jev).
 - 501-dataset pilot sample and cards in `data/`.
 - Baselines: fame 42.0%, card features 48.9%, checklist 51.7%, card + fame 54.0% (chance 33.3%). H1 and H2 refuted; see `docs/RESULTS_PILOT.md`.
-- Jev run on all 501 (25 Oct, `jev-1.13.0`, about $0.02): **38.3%**, below every baseline. It answered "low" 464 times. H3 supported. Raw answers in `results/jev_raw.jsonl`; see `docs/RESULTS_PILOT.md`.
+- Jev run on all 501 (25 Oct, `jev-1.13.0`, about $0.02): **38.3%**, below every baseline. It answered "low" 464 times. H3 supported. Raw answers in `results/jev_raw.jsonl`; see `docs/RESULTS_PILOT.md`. Why it scored low (exploratory): `docs/JEV_EXPLAINED.md`; next free check is the regression's AUC.
 - Key is a direct TypeSafe key in `.env` (written as `export TYPESAFE_API_KEY=...`; `run_jev.py` accepts that form).
 
 Next, in order:
@@ -52,12 +52,13 @@ Next, in order:
 ```
 README.md            plan, pre-registered hypotheses, how to re-run
 CLAUDE.md            this file
-docs/                ARCHITECTURE, DECISIONS, RESULTS_PILOT, GLOSSARY
+docs/                ARCHITECTURE, DECISIONS, RESULTS_PILOT, JEV_EXPLAINED, GLOSSARY
 src/build_sample.py  picks the sample, downloads day-7 cards and publisher followers
 src/features.py      counts things in a card; the 0-6 checklist score
 src/baselines.py     fame / checklist / regression with cross-validation
 src/run_jev.py       sends cards to Jev, saves raw answers (resumable)
 src/score_jev.py     accuracy, calibration, abstention view for Jev
+src/explore_jev.py   exploratory: why Jev scored low (see docs/JEV_EXPLAINED.md)
 data/                sample.json (committed), cards and big files (not committed)
 results/             pilot_baselines.json, jev_raw.jsonl (Jev answers, no card text)
 .venv/               private Python tools (not committed)
@@ -73,6 +74,7 @@ python3 -m venv .venv && .venv/bin/pip install scikit-learn numpy   # once
 .venv/bin/python src/run_jev.py --limit 20    # small paid test
 .venv/bin/python src/run_jev.py               # all cards
 .venv/bin/python src/score_jev.py
+.venv/bin/python src/explore_jev.py   # free, exploratory
 ```
 
 `data/h1_2025_all.jsonl` (the full list of 158,567 datasets) is needed by `build_sample.py`. It is not in Git; re-create it from the Hugging Face API (`/api/datasets` sorted by `createdAt`, paged through the `Link` header) if missing.
