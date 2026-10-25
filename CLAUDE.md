@@ -33,20 +33,19 @@ The plan in `README.md` was written **before** results existed. Do not edit the 
 - Sample: 167 per tier (501), max 3 per publisher, card as of day 7 after creation.
 - Methods: fame only, checklist, logistic regression (card + fame), Jev zero-shot, VEGA ML.
 
-## Status (as of 24 Oct 2026)
+## Status (as of 25 Oct 2026)
 
 Done:
 - Feasibility check (Hugging Face API, VEGA ML, Jev).
 - 501-dataset pilot sample and cards in `data/`.
 - Baselines: fame 42.0%, card features 48.9%, checklist 51.7%, card + fame 54.0% (chance 33.3%). H1 and H2 refuted; see `docs/RESULTS_PILOT.md`.
-- Jev runner and scorer written and dry-run. **Jev has not been called**: no API key was set.
+- Jev run on all 501 (25 Oct, `jev-1.13.0`, about $0.02): **38.3%**, below every baseline. It answered "low" 464 times. H3 supported. Raw answers in `results/jev_raw.jsonl`; see `docs/RESULTS_PILOT.md`.
+- Key is a direct TypeSafe key in `.env` (written as `export TYPESAFE_API_KEY=...`; `run_jev.py` accepts that form).
 
 Next, in order:
-1. Vivek adds his key to `.env`. Ask whether it is a direct TypeSafe key or a Vercel AI Gateway key (the script assumes direct; a gateway key needs a small change). Official API docs are at docs.typesafe.ai/api; the request format was built from third-party descriptions, so verify it with `--limit 20` first.
-2. Run Jev on all 501, then `score_jev.py`. This settles H3.
-3. Add controls: dataset age (created-date) and a better fame measure than follower count.
-4. VEGA ML: needs Python 3.10+ (this Mac's system Python is 3.9, so install a newer one), small model on the Mac, adapter training on a free Kaggle/Colab GPU. Pin its version. It is 2 weeks old with one author, so treat it as unproven.
-5. Scale beyond the pilot, add a spot-check of the checklist, then write up.
+1. Add controls: dataset age (created-date) and a better fame measure than follower count.
+2. VEGA ML: needs Python 3.10+ (this Mac's system Python is 3.9, so install a newer one), small model on the Mac, adapter training on a free Kaggle/Colab GPU. Pin its version. It is 2 weeks old with one author, so treat it as unproven.
+3. Scale beyond the pilot, add a spot-check of the checklist, then write up.
 
 ## Folder map
 
@@ -60,7 +59,7 @@ src/baselines.py     fame / checklist / regression with cross-validation
 src/run_jev.py       sends cards to Jev, saves raw answers (resumable)
 src/score_jev.py     accuracy, calibration, abstention view for Jev
 data/                sample.json (committed), cards and big files (not committed)
-results/             pilot_baselines.json, later jev_raw.jsonl
+results/             pilot_baselines.json, jev_raw.jsonl (Jev answers, no card text)
 .venv/               private Python tools (not committed)
 ```
 

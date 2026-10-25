@@ -68,3 +68,8 @@ Each entry: the decision, the options we turned down, and the reason, in plain t
 
 ## D16. Not using Claude Code's name to hide anything
 The code was written with Claude Code; the write-up should say so. This is a transparency decision.
+
+## D17. Commit Jev's raw answers; run 20 first, then the rest
+**Chosen:** commit `results/jev_raw.jsonl` to Git. Before the full run, send 20 cards and check every answer is complete before sending the other 481. 
+**Rejected:** keeping the answers out of Git like the cards (not needed: the file holds only dataset names and Jev's replies, no card text); sending all 501 at once (if the request format had been wrong, every call would have been wasted). 
+**Why:** anyone can re-check the scoring without paying to call Jev again, and the exact answers are preserved even if TypeSafe later retires `jev-1.13.0`. The real token use was about 1.7 times the dry-run estimate (Jev counts its own instructions); the total was still about two cents.

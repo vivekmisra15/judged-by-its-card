@@ -28,6 +28,7 @@ def load_key():
     if os.environ.get("TYPESAFE_API_KEY"): return os.environ["TYPESAFE_API_KEY"]
     if os.path.exists(".env"):
         for line in open(".env"):
+            line = line.strip().removeprefix("export ")   # allow 'export KEY=...' so the file also works with 'source .env'
             if line.startswith("TYPESAFE_API_KEY="): return line.split("=", 1)[1].strip().strip('"\'')
     return None
 
