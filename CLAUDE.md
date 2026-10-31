@@ -33,7 +33,11 @@ The plan in `README.md` was written **before** results existed. Do not edit the 
 - Sample: 167 per tier (501), max 3 per publisher, card as of day 7 after creation.
 - Methods: fame only, checklist, logistic regression (card + fame), Jev zero-shot, VEGA ML.
 
-## Status (checkpoint, 26 Oct 2026)
+## Status: PROJECT CLOSED (31 Oct 2026)
+
+Vivek closed the project after the pilot (decision D19). Retro: `docs/RETRO.md`; closing note in `README.md`. Do not start new analysis or paid runs unless Vivek reopens it. The checkpoint below is kept as history; "Resume here" no longer applies. Still pending for Vivek: bank outside-activities policy check before writing publicly, TypeSafe terms on Jev outputs, and a decision on committing and pushing these closing edits.
+
+## Status (checkpoint, 26 Oct 2026, historical)
 
 Done:
 - Feasibility check (Hugging Face API, VEGA ML, Jev).
@@ -67,6 +71,7 @@ src/baselines.py     fame / checklist / regression with cross-validation
 src/run_jev.py       sends cards to Jev, saves raw answers (resumable)
 src/score_jev.py     accuracy, calibration, abstention view for Jev
 src/explore_jev.py   exploratory: why Jev scored low (see docs/JEV_EXPLAINED.md)
+src/auc_regression.py exploratory: regression's AUC, to compare with Jev's
 data/                sample.json (committed), cards and big files (not committed)
 results/             pilot_baselines.json, jev_raw.jsonl (Jev answers, no card text)
 .venv/               private Python tools (not committed)
