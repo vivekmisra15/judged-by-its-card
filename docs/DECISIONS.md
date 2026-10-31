@@ -86,4 +86,14 @@ The code was written with Claude Code; the write-up should say so. This is a tra
 - Dropping Jev quietly from the write-up: it scored badly, so removing it now would be selective reporting. Its result stays in.
 - Pivoting to a richer traditional or ML model on a larger sample (age, subject metadata, gradient boosting, text features): a better study than the original, but a new project in effort, and 501 cards is too few for it.
 **Why:** the pilot answered "is this worth doing?" (documentation carries signal that fame alone does not) and showed the useful version of the study needs a different design. Vivek's time is better spent elsewhere. Nothing was changed retrospectively; the original design and hypotheses H1-H3 are untouched.
-**Left undone, on purpose:** VEGA ML, controls for age and a better fame measure, spot-check of the checklist, TypeSafe terms check on publishing Jev's outputs (the raw answers are already public in the repo), repeat-run check of Jev.
+**Left undone, on purpose:** VEGA ML, controls for age and a better fame measure, spot-check of the checklist, repeat-run check of Jev. (The TypeSafe terms check was left undone at first, then done the same day; see D20.)
+
+## D20. TypeSafe's terms allow publishing Jev's raw answers, as far as I can tell (31 Oct 2026)
+**Chosen:** keep `results/jev_raw.jsonl` in the public repo.
+**Rejected:** removing it as a precaution (nothing in the terms asks for that); asking TypeSafe for written permission (reasonable if this were a commercial publication, disproportionate for a closed personal pilot).
+**What the terms say (TypeSafe Master Customer Agreement, `typesafe.ai/legal/mca`, and Acceptable Use Policy, read 31 Oct 2026):**
+- 4.2: TypeSafe disclaims ownership of Output and assigns its rights in it to the customer.
+- No clause restricts publishing or sharing Output, or publishing benchmark or research results about the service.
+- 2.3(b) bars using Output for model distillation or to build a competing product. We did neither.
+- AUP 1.4 bars misleading people about whether content is AI-generated; the README and retro label the answers as Jev's.
+**Caveats:** read through a page-summarising tool, not word for word, so the sections above should be read in the original if it matters; I could not confirm which terms were accepted when the key was created; this is a reading, not legal advice.

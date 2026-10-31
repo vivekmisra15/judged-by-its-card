@@ -25,7 +25,7 @@ Find out whether the documentation a Hugging Face dataset is published with pred
 - **Treat the AI tools as a side question, not the headline.** The project name and framing put Jev and VEGA ML at the centre, but the interesting question was about documentation and fame. Tool results are perishable (one version, one prompt, one wording); the question was not.
 - **Measure fame better, and control for age, before comparing anything.** "Fame loses" may only mean my fame measure was weak. Adoption plainly depends on many things (subject, language, format, age, publisher history); I tested a thin version of that.
 - **Match the sample size to the method.** 501 cards is fine for a checklist and a simple regression and too few for the "nuanced ML" I later wanted. I should have asked what sample the better method would need before choosing the pilot size.
-- **Check terms before publishing outputs.** Jev's raw answers went into the public repo before I had checked whether TypeSafe's terms allow that. Still unchecked at closing.
+- **Check terms before publishing outputs.** Jev's raw answers went into the public repo before I had checked whether TypeSafe's terms allow that. I checked after closing (31 Oct, D20) and found no restriction, but that was luck as much as care; the check belongs before the first push.
 
 ## What I learned
 **About the topic**
@@ -46,4 +46,4 @@ Find out whether the documentation a Hugging Face dataset is published with pred
 The better study is: day-7 metadata (subject, language, licence, size, publisher history) with and without the card, on a much larger sample, with age controlled, comparing a regression with gradient boosting and text features. Treat likes as a noisy outcome with a low ceiling, and keep everything as of day 7 so nothing leaks the answer. The pilot code in `src/` is a reasonable starting point.
 
 ## Before anything is published
-The repository is public. Before writing about this anywhere else, check the bank's outside-activities policy (see `CLAUDE.md`, Independence rules), and TypeSafe's terms on publishing Jev's outputs.
+The repository is public. Both pre-publication checks are done (31 Oct 2026): the bank's outside-activities policy was confirmed OK, and TypeSafe's terms were checked (D20). Raw cards are still kept out of the repository until Hugging Face's reuse terms are checked.

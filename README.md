@@ -33,7 +33,7 @@ What the pilot found (details and caveats in `docs/RESULTS_PILOT.md`):
 
 Why it stopped, what I learned and what a better study would look like: `docs/RETRO.md` and decision D19 in `docs/DECISIONS.md`. The code was written with Claude Code.
 
-Raw cards are not in this repository. Jev's raw answers are (`results/jev_raw.jsonl`); whether TypeSafe's terms allow that has not been checked.
+Raw cards are not in this repository. Jev's raw answers are (`results/jev_raw.jsonl`); TypeSafe's published terms were checked on 31 Oct 2026 and do not restrict publishing outputs (see decision D20 for the caveats).
 
 ## Documentation for non-developers
 - `docs/RETRO.md`: what I learned, what went well, what I would change.

@@ -35,7 +35,7 @@ The plan in `README.md` was written **before** results existed. Do not edit the 
 
 ## Status: PROJECT CLOSED (31 Oct 2026)
 
-Vivek closed the project after the pilot (decision D19). Retro: `docs/RETRO.md`; closing note in `README.md`. Do not start new analysis or paid runs unless Vivek reopens it. The checkpoint below is kept as history; "Resume here" no longer applies. Still pending for Vivek: bank outside-activities policy check before writing publicly, TypeSafe terms on Jev outputs, and a decision on committing and pushing these closing edits.
+Vivek closed the project after the pilot (decision D19). Retro: `docs/RETRO.md`; closing note in `README.md`. Do not start new analysis or paid runs unless Vivek reopens it. The checkpoint below is kept as history; "Resume here" no longer applies. Closing items, all done on 31 Oct 2026: bank outside-activities policy confirmed OK by Vivek; TypeSafe terms checked (decision D20: no restriction on publishing outputs found); closing edits committed and pushed (`23cd999`, `0b94001`). Nothing is pending.
 
 ## Status (checkpoint, 26 Oct 2026, historical)
 
@@ -52,7 +52,7 @@ Done:
 Open choices (Vivek has not decided yet):
 - (a) Free: compute the regression's AUC (high vs rest) so Jev's 0.757 can be compared fairly, then add a short exploratory note to `docs/RESULTS_PILOT.md`. Recommended first.
 - (b) About 2 cents: a second Jev run that tells Jev the tiers are equally common and gives it publisher followers. Must be written up as a dated Amendment in `README.md` *before* running.
-- Not yet checked: whether TypeSafe's terms allow publishing Jev's outputs (the raw answers are now public on GitHub).
+- TypeSafe's terms on publishing Jev's outputs: checked 31 Oct, no restriction found (D20).
 
 Then, in order:
 1. Add controls: dataset age (created-date) and a better fame measure than follower count.
