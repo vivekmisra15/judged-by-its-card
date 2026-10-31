@@ -51,6 +51,23 @@ Jev answered all 501 cards (one version throughout: `jev-1.13.0`; no failures; c
 
 **Why so low?** See `JEV_EXPLAINED.md` (exploratory, not a finding). The main suspect: Jev leans towards the real-world rate, where about 90% of datasets get no likes, but our sample is one-third per tier. Removing that lean lifts it to 47.3%, still below the regression.
 
+## Exploratory: ranking quality (AUC), added 31 Oct 2026
+Decided after seeing the results, so **not a finding**. Accuracy punishes Jev for always saying "low". AUC asks a different question: pick one high-tier dataset and one other at random; how often does the method score the high one higher? (0.5 = chance, 1.0 = perfect.) It ignores the "always low" habit. Script: `src/auc_regression.py` (regression, cross-validated as above) and `src/explore_jev.py` (Jev and simple scores).
+
+| Method | AUC, high vs rest |
+|---|---|
+| Fame only (regression) | 0.660 |
+| Followers alone | 0.666 |
+| Word count alone | 0.702 |
+| Checklist alone | 0.713 |
+| Card features, no fame (regression) | 0.706 |
+| **Jev (no training)** | **0.757** |
+| **Card features + fame (regression)** | **0.773** |
+
+- On ranking, Jev is **not poor**: it beats fame, word count and the checklist, and sits just under the regression (0.757 vs 0.773). That gap is about the size of the regression's own wobble across repeats (±0.003) plus the sampling noise of 501 cards, so I would not call them different.
+- So Jev's low accuracy is mostly about its **calibration** (it says "low" far too often), not an inability to tell strong cards from weak ones. This fits the rebalancing result in `JEV_EXPLAINED.md`.
+- Caveats: this covers one question (high vs rest), not all three tiers. Jev's AUC has no cross-validation error bar because it is one run with no training; the regression's ± reflects repeats of the same data, not a fresh sample. It does not change H3, which was pre-registered on accuracy and stays "supported".
+
 ## Our pre-registered hypotheses, so far
 - **H1 "fame alone beats the checklist": refuted.** The checklist was 9.7 points better than fame.
 - **H2 "the checklist adds little once fame is known": refuted.** Adding card features to fame improved accuracy by 12 points (42.0 to 54.0).

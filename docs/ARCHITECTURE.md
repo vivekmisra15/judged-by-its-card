@@ -45,6 +45,7 @@ We never ask a person to judge anything. Instead we use **what actually happened
 | `src/run_jev.py` | Step 4b. Sends each card to Jev and saves the answers in `results/jev_raw.jsonl`. Can be stopped and restarted without paying twice. | The call to an outside expert |
 | `src/score_jev.py` | Step 5 for Jev: accuracy, confusion table, "answer only when confident" view, calibration. | The marking |
 | `src/explore_jev.py` | Exploratory, after the fact: why Jev scored low (real-world lean, ranking, what it reacts to). Free; calls no API. Explained in `docs/JEV_EXPLAINED.md`. | The post-mortem |
+| `src/auc_regression.py` | Exploratory: the regression's cross-validated AUC (high vs rest), to compare with Jev's. Free; calls no API. Results in `docs/RESULTS_PILOT.md`. | The fair ranking comparison |
 | `results/` | Outputs. `pilot_baselines.json` (baseline scores) and `jev_raw.jsonl` (Jev's answer for each dataset; no card text). | The results folder |
 | `docs/` | These explanatory documents. | The lab notebook |
 
